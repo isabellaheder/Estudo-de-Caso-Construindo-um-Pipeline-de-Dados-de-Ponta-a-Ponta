@@ -1,0 +1,25 @@
+Você receberá 3 arquivos CSV + 1 JSON representando as fontes do ambiente da RetailNow:
+
+### ERP	vendas.csv:
+Data, Loja, Produto_ID, Cliente_ID, Valor_Venda, Quantidade	
+
+Tipo dos dados:
+Pode conter linhas duplicadas e dados ausentes
+
+### CRM	clientes.csv:	
+Cliente_ID, Nome, Idade, Gênero, Cidade, Estado	
+
+Tipo dos dados:
+Dados limpos e consistentes
+
+### Marketing	campanhas.csv:
+Campanha_ID, Mês, Canal, Investimento, ROI	
+
+Tipo dos dados:
+Em CSV
+
+Logs Web	logs_acessos.json:
+timestamp, user_id, page, action, duration	
+
+Tipo dos dados:
+Dados semiestruturados
