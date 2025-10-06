@@ -11,20 +11,11 @@ Com a expansão das operações e canais digitais, a empresa passou a gerar gran
 Atualmente, essas **informações estão dispersas, sem integração** entre as áreas.
 A diretoria de dados contratou seu time para **propor e documentar um pipeline de dados unificado**, que permita **coletar, armazenar, processar e disponibilizar essas informações para análise**.
 
-
-
-
-
 Projetar e documentar uma arquitetura de dados moderna, aplicando tecnologias que atenda aos seguintes requisitos:
 
-Ingestão de dados estruturados (vendas, clientes, marketing) e semiestruturados (logs JSON);
-
-Armazenamento organizado por camadas (Raw, Staging, Curated, Analytics);
-
-Processamento distribuído e escalável (ex: Spark, Hive, Hadoop, etc.);
-
-Orquestração de etapas com Airflow (ou equivalente);
-
-Controle de demandas e versionamento via Azure Boards (ou similar);
-
-Disponibilização de dados prontos para BI (Power BI, Superset ou outro).
+- Ingestão de dados estruturados (vendas, clientes, marketing) e semiestruturados (logs JSON);
+- Armazenamento organizado por camadas (Raw, Staging, Curated, Analytics);
+- Processamento distribuído e escalável (ex: Spark, Hive, Hadoop, etc.);
+- Orquestração de etapas com Airflow (ou equivalente);
+- Controle de demandas e versionamento via Azure Boards (ou similar);
+- Disponibilização de dados prontos para BI (Power BI, Superset ou outro);
