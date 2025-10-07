@@ -1,0 +1,201 @@
+Cliente_ID,Nome,Idade,Gênero,Cidade,Estado
+C0001,Cliente_1,34,M,Porto Alegre,SP
+C0002,Cliente_2,63,F,Rio de Janeiro,PR
+C0003,Cliente_3,41,M,São Paulo,RS
+C0004,Cliente_4,28,F,São Paulo,SP
+C0005,Cliente_5,43,F,São Paulo,RJ
+C0006,Cliente_6,68,F,Curitiba,RS
+C0007,Cliente_7,51,F,Rio de Janeiro,RS
+C0008,Cliente_8,45,F,Rio de Janeiro,SP
+C0009,Cliente_9,20,M,Curitiba,PR
+C0010,Cliente_10,28,M,São Paulo,RJ
+C0011,Cliente_11,55,F,São Paulo,RS
+C0012,Cliente_12,31,F,Porto Alegre,PR
+C0013,Cliente_13,68,F,Recife,RJ
+C0014,Cliente_14,43,M,Rio de Janeiro,PE
+C0015,Cliente_15,65,F,Rio de Janeiro,PE
+C0016,Cliente_16,38,F,Rio de Janeiro,RJ
+C0017,Cliente_17,56,F,Recife,SP
+C0018,Cliente_18,47,F,Porto Alegre,RJ
+C0019,Cliente_19,25,M,Recife,RJ
+C0020,Cliente_20,68,F,São Paulo,SP
+C0021,Cliente_21,37,F,São Paulo,SP
+C0022,Cliente_22,65,M,Rio de Janeiro,PR
+C0023,Cliente_23,49,F,Curitiba,PR
+C0024,Cliente_24,39,F,Rio de Janeiro,SP
+C0025,Cliente_25,24,M,Curitiba,PE
+C0026,Cliente_26,26,M,Recife,PE
+C0027,Cliente_27,62,M,São Paulo,RJ
+C0028,Cliente_28,18,F,Curitiba,RS
+C0029,Cliente_29,46,F,Recife,RJ
+C0030,Cliente_30,25,M,São Paulo,RJ
+C0031,Cliente_31,21,M,Curitiba,RS
+C0032,Cliente_32,52,M,Rio de Janeiro,SP
+C0033,Cliente_33,20,F,Rio de Janeiro,PE
+C0034,Cliente_34,62,F,Rio de Janeiro,RJ
+C0035,Cliente_35,57,M,Recife,RS
+C0036,Cliente_36,24,F,Rio de Janeiro,PR
+C0037,Cliente_37,44,M,Porto Alegre,RJ
+C0038,Cliente_38,18,F,São Paulo,PE
+C0039,Cliente_39,44,F,Recife,SP
+C0040,Cliente_40,33,F,Rio de Janeiro,RJ
+C0041,Cliente_41,55,F,São Paulo,RJ
+C0042,Cliente_42,24,M,Curitiba,RS
+C0043,Cliente_43,61,F,Rio de Janeiro,PR
+C0044,Cliente_44,40,F,São Paulo,PR
+C0045,Cliente_45,58,M,Porto Alegre,SP
+C0046,Cliente_46,28,F,Curitiba,PE
+C0047,Cliente_47,59,M,Porto Alegre,SP
+C0048,Cliente_48,50,M,São Paulo,RJ
+C0049,Cliente_49,67,F,Porto Alegre,RJ
+C0050,Cliente_50,53,F,São Paulo,PR
+C0051,Cliente_51,54,M,São Paulo,PE
+C0052,Cliente_52,58,M,Porto Alegre,RS
+C0053,Cliente_53,34,M,São Paulo,PE
+C0054,Cliente_54,52,F,Rio de Janeiro,RJ
+C0055,Cliente_55,65,M,São Paulo,RS
+C0056,Cliente_56,22,M,Recife,PE
+C0057,Cliente_57,65,M,São Paulo,PE
+C0058,Cliente_58,49,F,Recife,RS
+C0059,Cliente_59,20,M,São Paulo,RJ
+C0060,Cliente_60,69,F,São Paulo,PE
+C0061,Cliente_61,64,F,Porto Alegre,RS
+C0062,Cliente_62,52,M,Rio de Janeiro,RJ
+C0063,Cliente_63,69,F,Rio de Janeiro,RS
+C0064,Cliente_64,31,M,Curitiba,RS
+C0065,Cliente_65,65,F,Porto Alegre,PE
+C0066,Cliente_66,48,F,Porto Alegre,RJ
+C0067,Cliente_67,48,M,Rio de Janeiro,PE
+C0068,Cliente_68,34,M,Porto Alegre,SP
+C0069,Cliente_69,41,M,Rio de Janeiro,SP
+C0070,Cliente_70,69,F,Porto Alegre,RJ
+C0071,Cliente_71,40,F,São Paulo,RS
+C0072,Cliente_72,35,M,Rio de Janeiro,PE
+C0073,Cliente_73,67,M,Rio de Janeiro,PE
+C0074,Cliente_74,31,F,Recife,RJ
+C0075,Cliente_75,67,F,Porto Alegre,RJ
+C0076,Cliente_76,32,F,Porto Alegre,SP
+C0077,Cliente_77,32,M,Rio de Janeiro,PR
+C0078,Cliente_78,23,F,São Paulo,RJ
+C0079,Cliente_79,44,M,São Paulo,PR
+C0080,Cliente_80,32,F,São Paulo,RJ
+C0081,Cliente_81,67,F,Porto Alegre,RS
+C0082,Cliente_82,53,M,Recife,RS
+C0083,Cliente_83,25,M,Rio de Janeiro,SP
+C0084,Cliente_84,32,M,Curitiba,SP
+C0085,Cliente_85,20,F,Recife,PR
+C0086,Cliente_86,64,F,Curitiba,RJ
+C0087,Cliente_87,30,F,Recife,PE
+C0088,Cliente_88,58,M,São Paulo,SP
+C0089,Cliente_89,51,F,Porto Alegre,PE
+C0090,Cliente_90,41,M,Curitiba,PE
+C0091,Cliente_91,57,M,Recife,RJ
+C0092,Cliente_92,49,M,Porto Alegre,PR
+C0093,Cliente_93,49,F,Curitiba,RJ
+C0094,Cliente_94,47,F,Rio de Janeiro,SP
+C0095,Cliente_95,69,M,Recife,PE
+C0096,Cliente_96,66,F,Rio de Janeiro,RJ
+C0097,Cliente_97,30,M,São Paulo,RJ
+C0098,Cliente_98,18,M,Rio de Janeiro,RJ
+C0099,Cliente_99,51,F,Rio de Janeiro,SP
+C0100,Cliente_100,32,M,Recife,PR
+C0101,Cliente_101,61,M,São Paulo,RJ
+C0102,Cliente_102,31,F,Rio de Janeiro,SP
+C0103,Cliente_103,46,M,Porto Alegre,PE
+C0104,Cliente_104,51,M,Curitiba,RS
+C0105,Cliente_105,35,M,Rio de Janeiro,SP
+C0106,Cliente_106,24,M,São Paulo,RS
+C0107,Cliente_107,46,M,Rio de Janeiro,RJ
+C0108,Cliente_108,48,M,Curitiba,RJ
+C0109,Cliente_109,42,M,São Paulo,SP
+C0110,Cliente_110,55,F,Recife,RS
+C0111,Cliente_111,31,F,São Paulo,RJ
+C0112,Cliente_112,25,M,Recife,PE
+C0113,Cliente_113,44,M,São Paulo,PR
+C0114,Cliente_114,19,F,Curitiba,PR
+C0115,Cliente_115,34,F,Curitiba,RJ
+C0116,Cliente_116,54,F,São Paulo,RS
+C0117,Cliente_117,31,F,Rio de Janeiro,RJ
+C0118,Cliente_118,42,F,Curitiba,RS
+C0119,Cliente_119,47,M,Recife,PE
+C0120,Cliente_120,46,F,Recife,RS
+C0121,Cliente_121,37,F,Porto Alegre,RJ
+C0122,Cliente_122,38,F,Recife,PE
+C0123,Cliente_123,39,M,Porto Alegre,SP
+C0124,Cliente_124,52,M,São Paulo,PR
+C0125,Cliente_125,54,M,São Paulo,RJ
+C0126,Cliente_126,33,M,São Paulo,RJ
+C0127,Cliente_127,67,M,Rio de Janeiro,RJ
+C0128,Cliente_128,66,M,Rio de Janeiro,PE
+C0129,Cliente_129,60,F,Porto Alegre,SP
+C0130,Cliente_130,34,M,Recife,RS
+C0131,Cliente_131,33,M,Recife,SP
+C0132,Cliente_132,19,F,São Paulo,PE
+C0133,Cliente_133,21,M,Curitiba,RJ
+C0134,Cliente_134,38,F,Rio de Janeiro,PR
+C0135,Cliente_135,56,F,Rio de Janeiro,RJ
+C0136,Cliente_136,51,M,São Paulo,RS
+C0137,Cliente_137,47,F,Rio de Janeiro,PR
+C0138,Cliente_138,23,F,São Paulo,RJ
+C0139,Cliente_139,34,F,Porto Alegre,PR
+C0140,Cliente_140,56,F,Recife,SP
+C0141,Cliente_141,42,M,Curitiba,PE
+C0142,Cliente_142,22,F,Recife,RJ
+C0143,Cliente_143,22,M,Recife,RS
+C0144,Cliente_144,37,F,Porto Alegre,SP
+C0145,Cliente_145,33,F,Rio de Janeiro,RJ
+C0146,Cliente_146,68,F,Curitiba,SP
+C0147,Cliente_147,58,M,Rio de Janeiro,RS
+C0148,Cliente_148,54,M,Recife,RJ
+C0149,Cliente_149,57,M,São Paulo,RS
+C0150,Cliente_150,26,F,Recife,PR
+C0151,Cliente_151,22,F,Rio de Janeiro,RS
+C0152,Cliente_152,59,F,Recife,PR
+C0153,Cliente_153,19,F,São Paulo,RJ
+C0154,Cliente_154,26,M,Porto Alegre,PR
+C0155,Cliente_155,60,F,Rio de Janeiro,RJ
+C0156,Cliente_156,53,M,Recife,RJ
+C0157,Cliente_157,39,F,Rio de Janeiro,PE
+C0158,Cliente_158,39,M,Porto Alegre,RJ
+C0159,Cliente_159,39,M,Recife,PR
+C0160,Cliente_160,51,F,Recife,PE
+C0161,Cliente_161,46,F,Rio de Janeiro,PE
+C0162,Cliente_162,55,M,Rio de Janeiro,RJ
+C0163,Cliente_163,63,F,São Paulo,RS
+C0164,Cliente_164,50,F,Porto Alegre,RS
+C0165,Cliente_165,35,M,São Paulo,PE
+C0166,Cliente_166,24,M,Recife,RJ
+C0167,Cliente_167,18,M,Rio de Janeiro,RS
+C0168,Cliente_168,50,M,Recife,RJ
+C0169,Cliente_169,18,F,Recife,RJ
+C0170,Cliente_170,41,M,Curitiba,PE
+C0171,Cliente_171,21,M,Curitiba,PE
+C0172,Cliente_172,21,M,Recife,SP
+C0173,Cliente_173,35,F,Rio de Janeiro,RS
+C0174,Cliente_174,44,M,Recife,RS
+C0175,Cliente_175,60,F,Curitiba,RS
+C0176,Cliente_176,49,M,Rio de Janeiro,PR
+C0177,Cliente_177,50,M,Recife,RJ
+C0178,Cliente_178,45,F,Porto Alegre,PE
+C0179,Cliente_179,59,M,Porto Alegre,RS
+C0180,Cliente_180,58,M,Recife,SP
+C0181,Cliente_181,53,F,Rio de Janeiro,RS
+C0182,Cliente_182,23,M,Recife,RJ
+C0183,Cliente_183,33,M,Recife,RJ
+C0184,Cliente_184,51,M,Curitiba,PE
+C0185,Cliente_185,40,M,Porto Alegre,PR
+C0186,Cliente_186,67,F,Curitiba,PE
+C0187,Cliente_187,59,M,Curitiba,RS
+C0188,Cliente_188,41,F,Recife,SP
+C0189,Cliente_189,66,M,Curitiba,PE
+C0190,Cliente_190,30,F,Porto Alegre,PR
+C0191,Cliente_191,35,M,Curitiba,PE
+C0192,Cliente_192,30,F,Porto Alegre,RJ
+C0193,Cliente_193,66,M,Curitiba,RS
+C0194,Cliente_194,54,F,Porto Alegre,RS
+C0195,Cliente_195,60,F,Curitiba,RS
+C0196,Cliente_196,56,M,Curitiba,RS
+C0197,Cliente_197,59,F,Rio de Janeiro,RS
+C0198,Cliente_198,34,M,Porto Alegre,RS
+C0199,Cliente_199,32,M,Porto Alegre,SP
+C0200,Cliente_200,35,M,Porto Alegre,PR

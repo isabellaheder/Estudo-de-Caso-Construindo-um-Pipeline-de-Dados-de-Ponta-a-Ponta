@@ -1,0 +1,3502 @@
+[
+  {
+    "timestamp": "2023-03-22T02:18:00",
+    "user_id": "C0049",
+    "page": "search",
+    "action": "purchase",
+    "duration": 198.74
+  },
+  {
+    "timestamp": "2023-05-11T13:10:00",
+    "user_id": "C0159",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 93.9
+  },
+  {
+    "timestamp": "2023-12-08T17:23:00",
+    "user_id": "C0043",
+    "page": "product",
+    "action": "scroll",
+    "duration": 273.07
+  },
+  {
+    "timestamp": "2023-06-17T23:34:00",
+    "user_id": "C0124",
+    "page": "product",
+    "action": "purchase",
+    "duration": 161.31
+  },
+  {
+    "timestamp": "2023-05-07T02:18:00",
+    "user_id": "C0143",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 281.72
+  },
+  {
+    "timestamp": "2023-07-07T11:53:00",
+    "user_id": "C0158",
+    "page": "search",
+    "action": "scroll",
+    "duration": 209.45
+  },
+  {
+    "timestamp": "2023-04-27T18:13:00",
+    "user_id": "C0086",
+    "page": "product",
+    "action": "view",
+    "duration": 299.05
+  },
+  {
+    "timestamp": "2023-08-24T01:12:00",
+    "user_id": "C0124",
+    "page": "home",
+    "action": "purchase",
+    "duration": 165.37
+  },
+  {
+    "timestamp": "2023-11-11T12:13:00",
+    "user_id": "C0056",
+    "page": "search",
+    "action": "scroll",
+    "duration": 262.33
+  },
+  {
+    "timestamp": "2023-04-25T03:33:00",
+    "user_id": "C0186",
+    "page": "checkout",
+    "action": "click",
+    "duration": 167.75
+  },
+  {
+    "timestamp": "2023-07-04T17:58:00",
+    "user_id": "C0151",
+    "page": "search",
+    "action": "purchase",
+    "duration": 154.27
+  },
+  {
+    "timestamp": "2023-10-29T01:47:00",
+    "user_id": "C0145",
+    "page": "product",
+    "action": "view",
+    "duration": 257.5
+  },
+  {
+    "timestamp": "2023-07-19T15:28:00",
+    "user_id": "C0158",
+    "page": "home",
+    "action": "click",
+    "duration": 53.53
+  },
+  {
+    "timestamp": "2023-12-16T05:04:00",
+    "user_id": "C0164",
+    "page": "search",
+    "action": "purchase",
+    "duration": 234.23
+  },
+  {
+    "timestamp": "2023-05-06T13:33:00",
+    "user_id": "C0109",
+    "page": "search",
+    "action": "scroll",
+    "duration": 3.85
+  },
+  {
+    "timestamp": "2023-12-07T06:14:00",
+    "user_id": "C0117",
+    "page": "search",
+    "action": "scroll",
+    "duration": 282.04
+  },
+  {
+    "timestamp": "2023-03-25T02:59:00",
+    "user_id": "C0069",
+    "page": "checkout",
+    "action": "click",
+    "duration": 137.56
+  },
+  {
+    "timestamp": "2023-12-09T05:09:00",
+    "user_id": "C0041",
+    "page": "home",
+    "action": "scroll",
+    "duration": 267.45
+  },
+  {
+    "timestamp": "2023-03-24T04:26:00",
+    "user_id": "C0138",
+    "page": "product",
+    "action": "click",
+    "duration": 106.21
+  },
+  {
+    "timestamp": "2023-03-27T20:02:00",
+    "user_id": "C0128",
+    "page": "checkout",
+    "action": "view",
+    "duration": 29.91
+  },
+  {
+    "timestamp": "2023-12-01T18:09:00",
+    "user_id": "C0092",
+    "page": "home",
+    "action": "scroll",
+    "duration": 191.14
+  },
+  {
+    "timestamp": "2023-01-13T10:05:00",
+    "user_id": "C0030",
+    "page": "home",
+    "action": "view",
+    "duration": 7.53
+  },
+  {
+    "timestamp": "2023-07-29T22:11:00",
+    "user_id": "C0069",
+    "page": "product",
+    "action": "view",
+    "duration": 57.45
+  },
+  {
+    "timestamp": "2023-12-03T11:36:00",
+    "user_id": "C0052",
+    "page": "home",
+    "action": "purchase",
+    "duration": 129.08
+  },
+  {
+    "timestamp": "2023-10-27T13:57:00",
+    "user_id": "C0063",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 169.02
+  },
+  {
+    "timestamp": "2023-09-09T02:43:00",
+    "user_id": "C0141",
+    "page": "product",
+    "action": "purchase",
+    "duration": 268.1
+  },
+  {
+    "timestamp": "2023-07-20T10:12:00",
+    "user_id": "C0043",
+    "page": "home",
+    "action": "purchase",
+    "duration": 143.62
+  },
+  {
+    "timestamp": "2023-08-11T18:59:00",
+    "user_id": "C0010",
+    "page": "checkout",
+    "action": "click",
+    "duration": 272.75
+  },
+  {
+    "timestamp": "2023-02-19T01:34:00",
+    "user_id": "C0071",
+    "page": "product",
+    "action": "scroll",
+    "duration": 184.91
+  },
+  {
+    "timestamp": "2023-08-07T06:13:00",
+    "user_id": "C0127",
+    "page": "search",
+    "action": "purchase",
+    "duration": 279.37
+  },
+  {
+    "timestamp": "2023-07-20T07:25:00",
+    "user_id": "C0116",
+    "page": "search",
+    "action": "click",
+    "duration": 84.33
+  },
+  {
+    "timestamp": "2023-03-27T13:25:00",
+    "user_id": "C0156",
+    "page": "home",
+    "action": "purchase",
+    "duration": 142.2
+  },
+  {
+    "timestamp": "2023-07-07T18:43:00",
+    "user_id": "C0175",
+    "page": "product",
+    "action": "view",
+    "duration": 84.42
+  },
+  {
+    "timestamp": "2023-05-09T12:20:00",
+    "user_id": "C0128",
+    "page": "home",
+    "action": "view",
+    "duration": 176.7
+  },
+  {
+    "timestamp": "2023-07-04T01:55:00",
+    "user_id": "C0170",
+    "page": "home",
+    "action": "scroll",
+    "duration": 25.69
+  },
+  {
+    "timestamp": "2023-11-04T01:27:00",
+    "user_id": "C0067",
+    "page": "home",
+    "action": "scroll",
+    "duration": 107.97
+  },
+  {
+    "timestamp": "2023-05-08T21:20:00",
+    "user_id": "C0055",
+    "page": "search",
+    "action": "purchase",
+    "duration": 35.49
+  },
+  {
+    "timestamp": "2023-10-05T23:35:00",
+    "user_id": "C0098",
+    "page": "home",
+    "action": "purchase",
+    "duration": 290.0
+  },
+  {
+    "timestamp": "2023-10-01T13:40:00",
+    "user_id": "C0198",
+    "page": "checkout",
+    "action": "view",
+    "duration": 171.69
+  },
+  {
+    "timestamp": "2023-04-20T15:15:00",
+    "user_id": "C0087",
+    "page": "home",
+    "action": "view",
+    "duration": 187.94
+  },
+  {
+    "timestamp": "2023-07-21T03:51:00",
+    "user_id": "C0019",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 28.31
+  },
+  {
+    "timestamp": "2023-04-18T17:11:00",
+    "user_id": "C0191",
+    "page": "product",
+    "action": "click",
+    "duration": 282.77
+  },
+  {
+    "timestamp": "2023-01-22T13:00:00",
+    "user_id": "C0073",
+    "page": "home",
+    "action": "scroll",
+    "duration": 78.03
+  },
+  {
+    "timestamp": "2023-11-24T08:23:00",
+    "user_id": "C0063",
+    "page": "product",
+    "action": "purchase",
+    "duration": 224.86
+  },
+  {
+    "timestamp": "2023-07-06T20:39:00",
+    "user_id": "C0069",
+    "page": "checkout",
+    "action": "click",
+    "duration": 86.97
+  },
+  {
+    "timestamp": "2023-11-16T03:00:00",
+    "user_id": "C0199",
+    "page": "home",
+    "action": "scroll",
+    "duration": 122.29
+  },
+  {
+    "timestamp": "2023-08-17T02:40:00",
+    "user_id": "C0173",
+    "page": "search",
+    "action": "click",
+    "duration": 39.64
+  },
+  {
+    "timestamp": "2023-01-11T09:50:00",
+    "user_id": "C0158",
+    "page": "search",
+    "action": "purchase",
+    "duration": 181.37
+  },
+  {
+    "timestamp": "2023-07-28T12:23:00",
+    "user_id": "C0196",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 208.8
+  },
+  {
+    "timestamp": "2023-04-18T18:19:00",
+    "user_id": "C0146",
+    "page": "product",
+    "action": "view",
+    "duration": 200.73
+  },
+  {
+    "timestamp": "2023-07-23T04:05:00",
+    "user_id": "C0017",
+    "page": "product",
+    "action": "purchase",
+    "duration": 245.34
+  },
+  {
+    "timestamp": "2023-10-23T07:04:00",
+    "user_id": "C0023",
+    "page": "home",
+    "action": "view",
+    "duration": 104.74
+  },
+  {
+    "timestamp": "2023-11-13T10:27:00",
+    "user_id": "C0009",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 145.77
+  },
+  {
+    "timestamp": "2023-03-12T12:19:00",
+    "user_id": "C0163",
+    "page": "product",
+    "action": "scroll",
+    "duration": 103.28
+  },
+  {
+    "timestamp": "2023-04-12T00:10:00",
+    "user_id": "C0076",
+    "page": "search",
+    "action": "view",
+    "duration": 57.06
+  },
+  {
+    "timestamp": "2023-04-27T06:34:00",
+    "user_id": "C0109",
+    "page": "home",
+    "action": "click",
+    "duration": 78.99
+  },
+  {
+    "timestamp": "2023-11-09T05:31:00",
+    "user_id": "C0059",
+    "page": "search",
+    "action": "click",
+    "duration": 55.44
+  },
+  {
+    "timestamp": "2023-10-15T03:34:00",
+    "user_id": "C0086",
+    "page": "product",
+    "action": "purchase",
+    "duration": 290.12
+  },
+  {
+    "timestamp": "2023-05-19T15:31:00",
+    "user_id": "C0027",
+    "page": "search",
+    "action": "click",
+    "duration": 196.65
+  },
+  {
+    "timestamp": "2023-08-06T19:55:00",
+    "user_id": "C0177",
+    "page": "home",
+    "action": "click",
+    "duration": 260.53
+  },
+  {
+    "timestamp": "2023-05-18T13:55:00",
+    "user_id": "C0054",
+    "page": "checkout",
+    "action": "click",
+    "duration": 198.34
+  },
+  {
+    "timestamp": "2023-01-22T16:39:00",
+    "user_id": "C0164",
+    "page": "product",
+    "action": "purchase",
+    "duration": 137.91
+  },
+  {
+    "timestamp": "2023-01-12T15:25:00",
+    "user_id": "C0137",
+    "page": "checkout",
+    "action": "view",
+    "duration": 73.95
+  },
+  {
+    "timestamp": "2023-02-04T13:14:00",
+    "user_id": "C0179",
+    "page": "checkout",
+    "action": "click",
+    "duration": 75.04
+  },
+  {
+    "timestamp": "2023-10-06T01:21:00",
+    "user_id": "C0158",
+    "page": "search",
+    "action": "scroll",
+    "duration": 290.02
+  },
+  {
+    "timestamp": "2023-03-29T04:35:00",
+    "user_id": "C0153",
+    "page": "search",
+    "action": "purchase",
+    "duration": 49.03
+  },
+  {
+    "timestamp": "2023-10-10T21:43:00",
+    "user_id": "C0150",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 36.74
+  },
+  {
+    "timestamp": "2023-10-21T06:38:00",
+    "user_id": "C0125",
+    "page": "product",
+    "action": "scroll",
+    "duration": 15.74
+  },
+  {
+    "timestamp": "2023-02-05T14:12:00",
+    "user_id": "C0088",
+    "page": "home",
+    "action": "view",
+    "duration": 224.44
+  },
+  {
+    "timestamp": "2023-06-20T03:35:00",
+    "user_id": "C0095",
+    "page": "search",
+    "action": "click",
+    "duration": 96.9
+  },
+  {
+    "timestamp": "2023-07-22T18:39:00",
+    "user_id": "C0178",
+    "page": "product",
+    "action": "click",
+    "duration": 229.39
+  },
+  {
+    "timestamp": "2023-01-08T01:04:00",
+    "user_id": "C0103",
+    "page": "product",
+    "action": "click",
+    "duration": 133.97
+  },
+  {
+    "timestamp": "2023-04-29T19:52:00",
+    "user_id": "C0108",
+    "page": "product",
+    "action": "view",
+    "duration": 73.24
+  },
+  {
+    "timestamp": "2023-11-09T09:29:00",
+    "user_id": "C0062",
+    "page": "home",
+    "action": "scroll",
+    "duration": 255.13
+  },
+  {
+    "timestamp": "2023-03-27T22:10:00",
+    "user_id": "C0119",
+    "page": "product",
+    "action": "click",
+    "duration": 148.14
+  },
+  {
+    "timestamp": "2023-10-17T23:55:00",
+    "user_id": "C0045",
+    "page": "product",
+    "action": "scroll",
+    "duration": 64.08
+  },
+  {
+    "timestamp": "2023-07-12T21:04:00",
+    "user_id": "C0044",
+    "page": "checkout",
+    "action": "click",
+    "duration": 244.62
+  },
+  {
+    "timestamp": "2023-12-29T05:17:00",
+    "user_id": "C0101",
+    "page": "product",
+    "action": "purchase",
+    "duration": 66.06
+  },
+  {
+    "timestamp": "2023-05-11T10:09:00",
+    "user_id": "C0086",
+    "page": "product",
+    "action": "scroll",
+    "duration": 22.73
+  },
+  {
+    "timestamp": "2023-04-12T23:38:00",
+    "user_id": "C0076",
+    "page": "home",
+    "action": "purchase",
+    "duration": 66.81
+  },
+  {
+    "timestamp": "2023-08-15T12:24:00",
+    "user_id": "C0013",
+    "page": "search",
+    "action": "click",
+    "duration": 38.57
+  },
+  {
+    "timestamp": "2023-03-23T09:13:00",
+    "user_id": "C0088",
+    "page": "home",
+    "action": "purchase",
+    "duration": 64.85
+  },
+  {
+    "timestamp": "2023-02-21T16:24:00",
+    "user_id": "C0069",
+    "page": "search",
+    "action": "click",
+    "duration": 3.21
+  },
+  {
+    "timestamp": "2023-02-09T12:04:00",
+    "user_id": "C0021",
+    "page": "search",
+    "action": "click",
+    "duration": 292.96
+  },
+  {
+    "timestamp": "2023-04-16T14:11:00",
+    "user_id": "C0187",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 133.87
+  },
+  {
+    "timestamp": "2023-03-20T23:56:00",
+    "user_id": "C0101",
+    "page": "search",
+    "action": "purchase",
+    "duration": 95.75
+  },
+  {
+    "timestamp": "2023-04-03T23:14:00",
+    "user_id": "C0056",
+    "page": "search",
+    "action": "view",
+    "duration": 233.54
+  },
+  {
+    "timestamp": "2023-07-02T15:37:00",
+    "user_id": "C0068",
+    "page": "product",
+    "action": "click",
+    "duration": 4.77
+  },
+  {
+    "timestamp": "2023-07-28T00:57:00",
+    "user_id": "C0006",
+    "page": "home",
+    "action": "purchase",
+    "duration": 94.54
+  },
+  {
+    "timestamp": "2023-02-02T19:08:00",
+    "user_id": "C0099",
+    "page": "home",
+    "action": "view",
+    "duration": 297.89
+  },
+  {
+    "timestamp": "2023-10-23T01:06:00",
+    "user_id": "C0077",
+    "page": "search",
+    "action": "click",
+    "duration": 99.48
+  },
+  {
+    "timestamp": "2023-09-20T11:17:00",
+    "user_id": "C0171",
+    "page": "checkout",
+    "action": "click",
+    "duration": 133.81
+  },
+  {
+    "timestamp": "2023-04-07T03:31:00",
+    "user_id": "C0107",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 88.88
+  },
+  {
+    "timestamp": "2023-05-24T09:05:00",
+    "user_id": "C0186",
+    "page": "search",
+    "action": "purchase",
+    "duration": 273.01
+  },
+  {
+    "timestamp": "2023-05-17T08:37:00",
+    "user_id": "C0103",
+    "page": "checkout",
+    "action": "view",
+    "duration": 68.32
+  },
+  {
+    "timestamp": "2023-01-25T06:14:00",
+    "user_id": "C0181",
+    "page": "home",
+    "action": "purchase",
+    "duration": 159.91
+  },
+  {
+    "timestamp": "2023-09-04T09:26:00",
+    "user_id": "C0097",
+    "page": "home",
+    "action": "purchase",
+    "duration": 129.93
+  },
+  {
+    "timestamp": "2023-02-05T20:03:00",
+    "user_id": "C0128",
+    "page": "home",
+    "action": "scroll",
+    "duration": 142.86
+  },
+  {
+    "timestamp": "2023-02-11T17:56:00",
+    "user_id": "C0005",
+    "page": "product",
+    "action": "scroll",
+    "duration": 216.94
+  },
+  {
+    "timestamp": "2023-01-04T02:54:00",
+    "user_id": "C0117",
+    "page": "search",
+    "action": "click",
+    "duration": 189.89
+  },
+  {
+    "timestamp": "2023-05-14T22:59:00",
+    "user_id": "C0162",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 9.1
+  },
+  {
+    "timestamp": "2023-04-30T19:15:00",
+    "user_id": "C0071",
+    "page": "home",
+    "action": "click",
+    "duration": 278.97
+  },
+  {
+    "timestamp": "2023-02-26T20:04:00",
+    "user_id": "C0191",
+    "page": "search",
+    "action": "purchase",
+    "duration": 97.52
+  },
+  {
+    "timestamp": "2023-03-11T03:06:00",
+    "user_id": "C0178",
+    "page": "search",
+    "action": "view",
+    "duration": 166.64
+  },
+  {
+    "timestamp": "2023-01-15T07:26:00",
+    "user_id": "C0039",
+    "page": "home",
+    "action": "view",
+    "duration": 260.44
+  },
+  {
+    "timestamp": "2023-05-11T14:28:00",
+    "user_id": "C0125",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 186.71
+  },
+  {
+    "timestamp": "2023-09-24T00:35:00",
+    "user_id": "C0166",
+    "page": "product",
+    "action": "purchase",
+    "duration": 230.56
+  },
+  {
+    "timestamp": "2023-11-10T12:10:00",
+    "user_id": "C0089",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 12.59
+  },
+  {
+    "timestamp": "2023-11-27T11:55:00",
+    "user_id": "C0072",
+    "page": "home",
+    "action": "view",
+    "duration": 194.28
+  },
+  {
+    "timestamp": "2023-04-04T19:18:00",
+    "user_id": "C0022",
+    "page": "product",
+    "action": "scroll",
+    "duration": 76.29
+  },
+  {
+    "timestamp": "2023-01-22T00:31:00",
+    "user_id": "C0018",
+    "page": "product",
+    "action": "click",
+    "duration": 25.35
+  },
+  {
+    "timestamp": "2023-05-23T10:22:00",
+    "user_id": "C0064",
+    "page": "product",
+    "action": "scroll",
+    "duration": 40.89
+  },
+  {
+    "timestamp": "2023-01-11T21:16:00",
+    "user_id": "C0176",
+    "page": "search",
+    "action": "click",
+    "duration": 66.88
+  },
+  {
+    "timestamp": "2023-04-22T18:06:00",
+    "user_id": "C0016",
+    "page": "product",
+    "action": "click",
+    "duration": 44.51
+  },
+  {
+    "timestamp": "2023-06-04T03:30:00",
+    "user_id": "C0156",
+    "page": "product",
+    "action": "click",
+    "duration": 200.41
+  },
+  {
+    "timestamp": "2023-09-26T15:44:00",
+    "user_id": "C0059",
+    "page": "home",
+    "action": "scroll",
+    "duration": 131.27
+  },
+  {
+    "timestamp": "2023-12-12T17:14:00",
+    "user_id": "C0045",
+    "page": "search",
+    "action": "purchase",
+    "duration": 193.29
+  },
+  {
+    "timestamp": "2023-08-28T18:19:00",
+    "user_id": "C0094",
+    "page": "product",
+    "action": "view",
+    "duration": 15.74
+  },
+  {
+    "timestamp": "2023-12-06T22:28:00",
+    "user_id": "C0128",
+    "page": "checkout",
+    "action": "click",
+    "duration": 269.92
+  },
+  {
+    "timestamp": "2023-04-11T09:37:00",
+    "user_id": "C0187",
+    "page": "product",
+    "action": "view",
+    "duration": 282.95
+  },
+  {
+    "timestamp": "2023-07-19T00:00:00",
+    "user_id": "C0053",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 213.4
+  },
+  {
+    "timestamp": "2023-03-21T11:06:00",
+    "user_id": "C0095",
+    "page": "checkout",
+    "action": "view",
+    "duration": 279.77
+  },
+  {
+    "timestamp": "2023-01-11T15:08:00",
+    "user_id": "C0182",
+    "page": "home",
+    "action": "click",
+    "duration": 102.95
+  },
+  {
+    "timestamp": "2023-09-28T05:13:00",
+    "user_id": "C0004",
+    "page": "product",
+    "action": "scroll",
+    "duration": 236.94
+  },
+  {
+    "timestamp": "2023-12-12T01:53:00",
+    "user_id": "C0029",
+    "page": "search",
+    "action": "scroll",
+    "duration": 8.37
+  },
+  {
+    "timestamp": "2023-04-01T21:22:00",
+    "user_id": "C0186",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 67.68
+  },
+  {
+    "timestamp": "2023-06-02T13:18:00",
+    "user_id": "C0039",
+    "page": "checkout",
+    "action": "click",
+    "duration": 292.7
+  },
+  {
+    "timestamp": "2023-02-16T08:01:00",
+    "user_id": "C0091",
+    "page": "search",
+    "action": "scroll",
+    "duration": 204.61
+  },
+  {
+    "timestamp": "2023-11-23T14:32:00",
+    "user_id": "C0123",
+    "page": "home",
+    "action": "scroll",
+    "duration": 39.38
+  },
+  {
+    "timestamp": "2023-03-23T02:19:00",
+    "user_id": "C0159",
+    "page": "search",
+    "action": "scroll",
+    "duration": 230.6
+  },
+  {
+    "timestamp": "2023-03-22T05:56:00",
+    "user_id": "C0043",
+    "page": "product",
+    "action": "purchase",
+    "duration": 12.94
+  },
+  {
+    "timestamp": "2023-05-29T04:11:00",
+    "user_id": "C0051",
+    "page": "product",
+    "action": "click",
+    "duration": 20.21
+  },
+  {
+    "timestamp": "2023-05-22T08:07:00",
+    "user_id": "C0192",
+    "page": "product",
+    "action": "view",
+    "duration": 257.64
+  },
+  {
+    "timestamp": "2023-05-17T12:39:00",
+    "user_id": "C0162",
+    "page": "search",
+    "action": "click",
+    "duration": 278.64
+  },
+  {
+    "timestamp": "2023-06-26T09:36:00",
+    "user_id": "C0010",
+    "page": "product",
+    "action": "purchase",
+    "duration": 119.99
+  },
+  {
+    "timestamp": "2023-02-09T15:31:00",
+    "user_id": "C0085",
+    "page": "home",
+    "action": "scroll",
+    "duration": 291.8
+  },
+  {
+    "timestamp": "2023-11-25T08:19:00",
+    "user_id": "C0177",
+    "page": "checkout",
+    "action": "click",
+    "duration": 198.88
+  },
+  {
+    "timestamp": "2023-02-19T15:27:00",
+    "user_id": "C0189",
+    "page": "home",
+    "action": "view",
+    "duration": 210.16
+  },
+  {
+    "timestamp": "2023-04-25T06:32:00",
+    "user_id": "C0026",
+    "page": "search",
+    "action": "view",
+    "duration": 38.45
+  },
+  {
+    "timestamp": "2023-03-04T22:25:00",
+    "user_id": "C0123",
+    "page": "search",
+    "action": "view",
+    "duration": 4.56
+  },
+  {
+    "timestamp": "2023-05-12T17:07:00",
+    "user_id": "C0003",
+    "page": "search",
+    "action": "scroll",
+    "duration": 267.36
+  },
+  {
+    "timestamp": "2023-01-27T16:14:00",
+    "user_id": "C0120",
+    "page": "search",
+    "action": "scroll",
+    "duration": 148.7
+  },
+  {
+    "timestamp": "2023-05-05T20:21:00",
+    "user_id": "C0066",
+    "page": "product",
+    "action": "scroll",
+    "duration": 246.56
+  },
+  {
+    "timestamp": "2023-06-15T16:39:00",
+    "user_id": "C0186",
+    "page": "product",
+    "action": "scroll",
+    "duration": 42.03
+  },
+  {
+    "timestamp": "2023-01-03T19:18:00",
+    "user_id": "C0139",
+    "page": "search",
+    "action": "purchase",
+    "duration": 134.4
+  },
+  {
+    "timestamp": "2023-03-05T20:40:00",
+    "user_id": "C0199",
+    "page": "search",
+    "action": "click",
+    "duration": 31.46
+  },
+  {
+    "timestamp": "2023-06-23T23:29:00",
+    "user_id": "C0115",
+    "page": "product",
+    "action": "scroll",
+    "duration": 8.47
+  },
+  {
+    "timestamp": "2023-05-26T22:17:00",
+    "user_id": "C0020",
+    "page": "search",
+    "action": "click",
+    "duration": 182.12
+  },
+  {
+    "timestamp": "2023-02-06T20:06:00",
+    "user_id": "C0093",
+    "page": "search",
+    "action": "view",
+    "duration": 28.31
+  },
+  {
+    "timestamp": "2023-12-29T12:50:00",
+    "user_id": "C0154",
+    "page": "product",
+    "action": "view",
+    "duration": 218.51
+  },
+  {
+    "timestamp": "2023-12-20T04:08:00",
+    "user_id": "C0036",
+    "page": "search",
+    "action": "view",
+    "duration": 56.09
+  },
+  {
+    "timestamp": "2023-01-03T12:59:00",
+    "user_id": "C0086",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 119.58
+  },
+  {
+    "timestamp": "2023-09-09T18:14:00",
+    "user_id": "C0093",
+    "page": "search",
+    "action": "click",
+    "duration": 15.65
+  },
+  {
+    "timestamp": "2023-09-07T20:11:00",
+    "user_id": "C0166",
+    "page": "checkout",
+    "action": "click",
+    "duration": 299.5
+  },
+  {
+    "timestamp": "2023-08-22T02:24:00",
+    "user_id": "C0073",
+    "page": "home",
+    "action": "scroll",
+    "duration": 298.44
+  },
+  {
+    "timestamp": "2023-05-25T08:23:00",
+    "user_id": "C0090",
+    "page": "home",
+    "action": "scroll",
+    "duration": 78.86
+  },
+  {
+    "timestamp": "2023-12-05T20:59:00",
+    "user_id": "C0072",
+    "page": "checkout",
+    "action": "view",
+    "duration": 202.89
+  },
+  {
+    "timestamp": "2023-11-11T17:00:00",
+    "user_id": "C0135",
+    "page": "product",
+    "action": "purchase",
+    "duration": 85.86
+  },
+  {
+    "timestamp": "2023-02-10T12:30:00",
+    "user_id": "C0058",
+    "page": "product",
+    "action": "click",
+    "duration": 203.18
+  },
+  {
+    "timestamp": "2023-09-17T00:43:00",
+    "user_id": "C0117",
+    "page": "checkout",
+    "action": "view",
+    "duration": 24.15
+  },
+  {
+    "timestamp": "2023-03-08T12:00:00",
+    "user_id": "C0170",
+    "page": "search",
+    "action": "view",
+    "duration": 32.59
+  },
+  {
+    "timestamp": "2023-03-07T09:13:00",
+    "user_id": "C0067",
+    "page": "product",
+    "action": "view",
+    "duration": 97.38
+  },
+  {
+    "timestamp": "2023-08-05T19:12:00",
+    "user_id": "C0053",
+    "page": "product",
+    "action": "click",
+    "duration": 211.28
+  },
+  {
+    "timestamp": "2023-10-18T16:17:00",
+    "user_id": "C0087",
+    "page": "product",
+    "action": "purchase",
+    "duration": 202.18
+  },
+  {
+    "timestamp": "2023-04-04T15:24:00",
+    "user_id": "C0148",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 86.55
+  },
+  {
+    "timestamp": "2023-02-26T02:42:00",
+    "user_id": "C0065",
+    "page": "home",
+    "action": "view",
+    "duration": 130.16
+  },
+  {
+    "timestamp": "2023-03-28T11:08:00",
+    "user_id": "C0117",
+    "page": "search",
+    "action": "view",
+    "duration": 174.36
+  },
+  {
+    "timestamp": "2023-11-24T07:24:00",
+    "user_id": "C0003",
+    "page": "product",
+    "action": "scroll",
+    "duration": 53.59
+  },
+  {
+    "timestamp": "2023-05-21T07:41:00",
+    "user_id": "C0192",
+    "page": "search",
+    "action": "view",
+    "duration": 274.54
+  },
+  {
+    "timestamp": "2023-03-26T23:37:00",
+    "user_id": "C0193",
+    "page": "search",
+    "action": "scroll",
+    "duration": 276.42
+  },
+  {
+    "timestamp": "2023-09-09T06:34:00",
+    "user_id": "C0024",
+    "page": "search",
+    "action": "purchase",
+    "duration": 273.62
+  },
+  {
+    "timestamp": "2023-07-29T16:11:00",
+    "user_id": "C0016",
+    "page": "checkout",
+    "action": "view",
+    "duration": 76.76
+  },
+  {
+    "timestamp": "2023-01-31T14:34:00",
+    "user_id": "C0144",
+    "page": "checkout",
+    "action": "view",
+    "duration": 105.88
+  },
+  {
+    "timestamp": "2023-02-04T21:58:00",
+    "user_id": "C0193",
+    "page": "checkout",
+    "action": "click",
+    "duration": 93.53
+  },
+  {
+    "timestamp": "2023-10-26T12:17:00",
+    "user_id": "C0043",
+    "page": "home",
+    "action": "scroll",
+    "duration": 50.46
+  },
+  {
+    "timestamp": "2023-01-06T10:32:00",
+    "user_id": "C0075",
+    "page": "product",
+    "action": "click",
+    "duration": 89.15
+  },
+  {
+    "timestamp": "2023-05-06T11:57:00",
+    "user_id": "C0178",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 76.44
+  },
+  {
+    "timestamp": "2023-03-01T11:24:00",
+    "user_id": "C0003",
+    "page": "search",
+    "action": "scroll",
+    "duration": 263.75
+  },
+  {
+    "timestamp": "2023-06-07T17:47:00",
+    "user_id": "C0161",
+    "page": "home",
+    "action": "purchase",
+    "duration": 197.31
+  },
+  {
+    "timestamp": "2023-02-25T06:31:00",
+    "user_id": "C0127",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 290.53
+  },
+  {
+    "timestamp": "2023-09-10T05:33:00",
+    "user_id": "C0117",
+    "page": "search",
+    "action": "purchase",
+    "duration": 203.37
+  },
+  {
+    "timestamp": "2023-06-14T23:17:00",
+    "user_id": "C0001",
+    "page": "search",
+    "action": "purchase",
+    "duration": 22.24
+  },
+  {
+    "timestamp": "2023-06-09T10:50:00",
+    "user_id": "C0030",
+    "page": "product",
+    "action": "purchase",
+    "duration": 44.02
+  },
+  {
+    "timestamp": "2023-08-27T00:53:00",
+    "user_id": "C0080",
+    "page": "product",
+    "action": "scroll",
+    "duration": 238.88
+  },
+  {
+    "timestamp": "2023-07-24T22:05:00",
+    "user_id": "C0128",
+    "page": "checkout",
+    "action": "click",
+    "duration": 136.26
+  },
+  {
+    "timestamp": "2023-08-31T23:09:00",
+    "user_id": "C0109",
+    "page": "search",
+    "action": "view",
+    "duration": 30.19
+  },
+  {
+    "timestamp": "2023-06-23T02:33:00",
+    "user_id": "C0164",
+    "page": "search",
+    "action": "purchase",
+    "duration": 71.82
+  },
+  {
+    "timestamp": "2023-05-22T12:35:00",
+    "user_id": "C0178",
+    "page": "search",
+    "action": "view",
+    "duration": 110.4
+  },
+  {
+    "timestamp": "2023-06-20T00:26:00",
+    "user_id": "C0066",
+    "page": "home",
+    "action": "purchase",
+    "duration": 205.12
+  },
+  {
+    "timestamp": "2023-04-16T10:14:00",
+    "user_id": "C0103",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 31.73
+  },
+  {
+    "timestamp": "2023-11-01T10:11:00",
+    "user_id": "C0090",
+    "page": "home",
+    "action": "view",
+    "duration": 267.4
+  },
+  {
+    "timestamp": "2023-08-16T08:09:00",
+    "user_id": "C0159",
+    "page": "checkout",
+    "action": "view",
+    "duration": 128.01
+  },
+  {
+    "timestamp": "2023-06-25T03:55:00",
+    "user_id": "C0049",
+    "page": "home",
+    "action": "click",
+    "duration": 207.84
+  },
+  {
+    "timestamp": "2023-06-02T22:09:00",
+    "user_id": "C0142",
+    "page": "checkout",
+    "action": "view",
+    "duration": 295.69
+  },
+  {
+    "timestamp": "2023-12-09T06:03:00",
+    "user_id": "C0103",
+    "page": "product",
+    "action": "scroll",
+    "duration": 266.23
+  },
+  {
+    "timestamp": "2023-01-30T13:54:00",
+    "user_id": "C0002",
+    "page": "checkout",
+    "action": "view",
+    "duration": 234.43
+  },
+  {
+    "timestamp": "2023-06-03T20:48:00",
+    "user_id": "C0082",
+    "page": "search",
+    "action": "purchase",
+    "duration": 189.56
+  },
+  {
+    "timestamp": "2023-10-19T08:22:00",
+    "user_id": "C0135",
+    "page": "product",
+    "action": "scroll",
+    "duration": 24.41
+  },
+  {
+    "timestamp": "2023-05-17T08:06:00",
+    "user_id": "C0133",
+    "page": "home",
+    "action": "click",
+    "duration": 280.92
+  },
+  {
+    "timestamp": "2023-09-12T01:29:00",
+    "user_id": "C0074",
+    "page": "checkout",
+    "action": "view",
+    "duration": 285.9
+  },
+  {
+    "timestamp": "2023-08-07T18:22:00",
+    "user_id": "C0106",
+    "page": "home",
+    "action": "view",
+    "duration": 76.6
+  },
+  {
+    "timestamp": "2023-01-29T05:10:00",
+    "user_id": "C0100",
+    "page": "product",
+    "action": "view",
+    "duration": 82.16
+  },
+  {
+    "timestamp": "2023-03-19T00:00:00",
+    "user_id": "C0029",
+    "page": "home",
+    "action": "click",
+    "duration": 216.6
+  },
+  {
+    "timestamp": "2023-12-23T17:30:00",
+    "user_id": "C0143",
+    "page": "product",
+    "action": "purchase",
+    "duration": 237.62
+  },
+  {
+    "timestamp": "2023-10-11T01:00:00",
+    "user_id": "C0079",
+    "page": "home",
+    "action": "purchase",
+    "duration": 188.4
+  },
+  {
+    "timestamp": "2023-02-27T15:37:00",
+    "user_id": "C0185",
+    "page": "home",
+    "action": "purchase",
+    "duration": 269.55
+  },
+  {
+    "timestamp": "2023-05-29T21:55:00",
+    "user_id": "C0075",
+    "page": "product",
+    "action": "scroll",
+    "duration": 122.15
+  },
+  {
+    "timestamp": "2023-11-03T02:21:00",
+    "user_id": "C0062",
+    "page": "product",
+    "action": "purchase",
+    "duration": 14.81
+  },
+  {
+    "timestamp": "2023-02-14T21:52:00",
+    "user_id": "C0106",
+    "page": "product",
+    "action": "click",
+    "duration": 81.62
+  },
+  {
+    "timestamp": "2023-12-02T13:17:00",
+    "user_id": "C0058",
+    "page": "search",
+    "action": "view",
+    "duration": 241.84
+  },
+  {
+    "timestamp": "2023-08-18T04:13:00",
+    "user_id": "C0196",
+    "page": "checkout",
+    "action": "click",
+    "duration": 203.99
+  },
+  {
+    "timestamp": "2023-06-09T05:33:00",
+    "user_id": "C0052",
+    "page": "home",
+    "action": "purchase",
+    "duration": 151.36
+  },
+  {
+    "timestamp": "2023-07-12T23:39:00",
+    "user_id": "C0133",
+    "page": "product",
+    "action": "view",
+    "duration": 293.25
+  },
+  {
+    "timestamp": "2023-10-17T22:35:00",
+    "user_id": "C0137",
+    "page": "product",
+    "action": "purchase",
+    "duration": 220.57
+  },
+  {
+    "timestamp": "2023-07-18T20:25:00",
+    "user_id": "C0067",
+    "page": "product",
+    "action": "click",
+    "duration": 82.24
+  },
+  {
+    "timestamp": "2023-12-15T03:37:00",
+    "user_id": "C0131",
+    "page": "product",
+    "action": "view",
+    "duration": 78.94
+  },
+  {
+    "timestamp": "2023-08-28T23:58:00",
+    "user_id": "C0137",
+    "page": "product",
+    "action": "click",
+    "duration": 294.43
+  },
+  {
+    "timestamp": "2023-06-25T14:17:00",
+    "user_id": "C0174",
+    "page": "search",
+    "action": "view",
+    "duration": 212.98
+  },
+  {
+    "timestamp": "2023-12-14T12:35:00",
+    "user_id": "C0044",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 17.25
+  },
+  {
+    "timestamp": "2023-01-11T23:24:00",
+    "user_id": "C0130",
+    "page": "home",
+    "action": "click",
+    "duration": 17.93
+  },
+  {
+    "timestamp": "2023-12-09T00:52:00",
+    "user_id": "C0064",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 236.17
+  },
+  {
+    "timestamp": "2023-10-17T02:45:00",
+    "user_id": "C0096",
+    "page": "product",
+    "action": "view",
+    "duration": 253.04
+  },
+  {
+    "timestamp": "2023-03-29T06:45:00",
+    "user_id": "C0058",
+    "page": "product",
+    "action": "purchase",
+    "duration": 183.73
+  },
+  {
+    "timestamp": "2023-07-18T21:50:00",
+    "user_id": "C0056",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 109.0
+  },
+  {
+    "timestamp": "2023-04-28T01:44:00",
+    "user_id": "C0030",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 109.1
+  },
+  {
+    "timestamp": "2023-04-06T12:47:00",
+    "user_id": "C0055",
+    "page": "checkout",
+    "action": "view",
+    "duration": 11.29
+  },
+  {
+    "timestamp": "2023-10-01T18:22:00",
+    "user_id": "C0057",
+    "page": "product",
+    "action": "purchase",
+    "duration": 130.19
+  },
+  {
+    "timestamp": "2023-01-31T12:02:00",
+    "user_id": "C0043",
+    "page": "search",
+    "action": "click",
+    "duration": 267.42
+  },
+  {
+    "timestamp": "2023-08-23T00:41:00",
+    "user_id": "C0194",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 273.15
+  },
+  {
+    "timestamp": "2023-09-09T01:12:00",
+    "user_id": "C0146",
+    "page": "home",
+    "action": "purchase",
+    "duration": 28.97
+  },
+  {
+    "timestamp": "2023-03-10T00:07:00",
+    "user_id": "C0046",
+    "page": "search",
+    "action": "click",
+    "duration": 83.87
+  },
+  {
+    "timestamp": "2023-12-10T15:48:00",
+    "user_id": "C0114",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 52.65
+  },
+  {
+    "timestamp": "2023-04-25T17:37:00",
+    "user_id": "C0030",
+    "page": "search",
+    "action": "click",
+    "duration": 49.59
+  },
+  {
+    "timestamp": "2023-10-11T16:44:00",
+    "user_id": "C0073",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 215.49
+  },
+  {
+    "timestamp": "2023-02-08T21:43:00",
+    "user_id": "C0019",
+    "page": "home",
+    "action": "scroll",
+    "duration": 228.95
+  },
+  {
+    "timestamp": "2023-02-15T21:12:00",
+    "user_id": "C0072",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 283.7
+  },
+  {
+    "timestamp": "2023-03-17T18:49:00",
+    "user_id": "C0026",
+    "page": "checkout",
+    "action": "click",
+    "duration": 158.02
+  },
+  {
+    "timestamp": "2023-10-28T00:03:00",
+    "user_id": "C0178",
+    "page": "product",
+    "action": "view",
+    "duration": 127.38
+  },
+  {
+    "timestamp": "2023-06-03T22:21:00",
+    "user_id": "C0169",
+    "page": "home",
+    "action": "scroll",
+    "duration": 263.52
+  },
+  {
+    "timestamp": "2023-01-05T01:33:00",
+    "user_id": "C0097",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 244.13
+  },
+  {
+    "timestamp": "2023-04-04T14:10:00",
+    "user_id": "C0026",
+    "page": "search",
+    "action": "purchase",
+    "duration": 106.16
+  },
+  {
+    "timestamp": "2023-02-26T12:18:00",
+    "user_id": "C0106",
+    "page": "search",
+    "action": "view",
+    "duration": 249.15
+  },
+  {
+    "timestamp": "2023-07-12T08:17:00",
+    "user_id": "C0026",
+    "page": "home",
+    "action": "click",
+    "duration": 221.94
+  },
+  {
+    "timestamp": "2023-05-05T07:44:00",
+    "user_id": "C0156",
+    "page": "home",
+    "action": "scroll",
+    "duration": 134.98
+  },
+  {
+    "timestamp": "2023-10-15T23:48:00",
+    "user_id": "C0018",
+    "page": "product",
+    "action": "view",
+    "duration": 188.41
+  },
+  {
+    "timestamp": "2023-08-04T09:57:00",
+    "user_id": "C0144",
+    "page": "home",
+    "action": "scroll",
+    "duration": 152.71
+  },
+  {
+    "timestamp": "2023-09-14T06:03:00",
+    "user_id": "C0176",
+    "page": "home",
+    "action": "view",
+    "duration": 170.19
+  },
+  {
+    "timestamp": "2023-10-11T01:12:00",
+    "user_id": "C0113",
+    "page": "product",
+    "action": "click",
+    "duration": 271.43
+  },
+  {
+    "timestamp": "2023-11-14T06:42:00",
+    "user_id": "C0106",
+    "page": "search",
+    "action": "click",
+    "duration": 176.28
+  },
+  {
+    "timestamp": "2023-03-05T00:56:00",
+    "user_id": "C0072",
+    "page": "search",
+    "action": "click",
+    "duration": 25.42
+  },
+  {
+    "timestamp": "2023-06-24T08:49:00",
+    "user_id": "C0190",
+    "page": "home",
+    "action": "click",
+    "duration": 274.54
+  },
+  {
+    "timestamp": "2023-06-22T12:07:00",
+    "user_id": "C0150",
+    "page": "product",
+    "action": "click",
+    "duration": 146.56
+  },
+  {
+    "timestamp": "2023-03-09T20:03:00",
+    "user_id": "C0140",
+    "page": "checkout",
+    "action": "click",
+    "duration": 163.34
+  },
+  {
+    "timestamp": "2023-10-04T12:45:00",
+    "user_id": "C0151",
+    "page": "search",
+    "action": "scroll",
+    "duration": 45.68
+  },
+  {
+    "timestamp": "2023-04-30T19:33:00",
+    "user_id": "C0089",
+    "page": "home",
+    "action": "view",
+    "duration": 134.62
+  },
+  {
+    "timestamp": "2023-11-26T12:45:00",
+    "user_id": "C0183",
+    "page": "checkout",
+    "action": "view",
+    "duration": 50.21
+  },
+  {
+    "timestamp": "2023-12-19T15:54:00",
+    "user_id": "C0130",
+    "page": "home",
+    "action": "view",
+    "duration": 280.14
+  },
+  {
+    "timestamp": "2023-10-13T17:11:00",
+    "user_id": "C0186",
+    "page": "product",
+    "action": "scroll",
+    "duration": 155.66
+  },
+  {
+    "timestamp": "2023-02-14T15:59:00",
+    "user_id": "C0120",
+    "page": "checkout",
+    "action": "click",
+    "duration": 108.27
+  },
+  {
+    "timestamp": "2023-12-28T07:11:00",
+    "user_id": "C0192",
+    "page": "home",
+    "action": "scroll",
+    "duration": 33.74
+  },
+  {
+    "timestamp": "2023-09-27T13:59:00",
+    "user_id": "C0103",
+    "page": "home",
+    "action": "purchase",
+    "duration": 288.7
+  },
+  {
+    "timestamp": "2023-04-25T21:44:00",
+    "user_id": "C0067",
+    "page": "checkout",
+    "action": "view",
+    "duration": 215.55
+  },
+  {
+    "timestamp": "2023-07-18T05:16:00",
+    "user_id": "C0197",
+    "page": "home",
+    "action": "scroll",
+    "duration": 2.46
+  },
+  {
+    "timestamp": "2023-11-18T10:42:00",
+    "user_id": "C0029",
+    "page": "product",
+    "action": "purchase",
+    "duration": 24.51
+  },
+  {
+    "timestamp": "2023-02-17T20:49:00",
+    "user_id": "C0130",
+    "page": "home",
+    "action": "view",
+    "duration": 122.66
+  },
+  {
+    "timestamp": "2023-06-21T19:37:00",
+    "user_id": "C0024",
+    "page": "checkout",
+    "action": "click",
+    "duration": 220.05
+  },
+  {
+    "timestamp": "2023-08-11T05:58:00",
+    "user_id": "C0058",
+    "page": "product",
+    "action": "view",
+    "duration": 72.46
+  },
+  {
+    "timestamp": "2023-09-05T10:10:00",
+    "user_id": "C0143",
+    "page": "search",
+    "action": "scroll",
+    "duration": 71.06
+  },
+  {
+    "timestamp": "2023-03-13T03:20:00",
+    "user_id": "C0043",
+    "page": "search",
+    "action": "click",
+    "duration": 31.99
+  },
+  {
+    "timestamp": "2023-04-29T21:15:00",
+    "user_id": "C0160",
+    "page": "search",
+    "action": "scroll",
+    "duration": 102.21
+  },
+  {
+    "timestamp": "2023-10-10T04:02:00",
+    "user_id": "C0066",
+    "page": "product",
+    "action": "scroll",
+    "duration": 247.81
+  },
+  {
+    "timestamp": "2023-03-06T12:14:00",
+    "user_id": "C0026",
+    "page": "home",
+    "action": "scroll",
+    "duration": 195.38
+  },
+  {
+    "timestamp": "2023-10-23T09:16:00",
+    "user_id": "C0025",
+    "page": "search",
+    "action": "view",
+    "duration": 37.36
+  },
+  {
+    "timestamp": "2023-09-15T21:42:00",
+    "user_id": "C0090",
+    "page": "product",
+    "action": "view",
+    "duration": 187.5
+  },
+  {
+    "timestamp": "2023-07-28T16:30:00",
+    "user_id": "C0149",
+    "page": "home",
+    "action": "view",
+    "duration": 120.71
+  },
+  {
+    "timestamp": "2023-03-13T10:23:00",
+    "user_id": "C0106",
+    "page": "checkout",
+    "action": "click",
+    "duration": 156.55
+  },
+  {
+    "timestamp": "2023-02-15T16:34:00",
+    "user_id": "C0044",
+    "page": "search",
+    "action": "purchase",
+    "duration": 269.36
+  },
+  {
+    "timestamp": "2023-11-03T16:09:00",
+    "user_id": "C0127",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 103.1
+  },
+  {
+    "timestamp": "2023-03-19T11:31:00",
+    "user_id": "C0131",
+    "page": "search",
+    "action": "scroll",
+    "duration": 237.6
+  },
+  {
+    "timestamp": "2023-05-21T10:29:00",
+    "user_id": "C0046",
+    "page": "product",
+    "action": "scroll",
+    "duration": 255.19
+  },
+  {
+    "timestamp": "2023-04-21T16:00:00",
+    "user_id": "C0137",
+    "page": "home",
+    "action": "scroll",
+    "duration": 55.69
+  },
+  {
+    "timestamp": "2023-09-17T13:37:00",
+    "user_id": "C0091",
+    "page": "home",
+    "action": "click",
+    "duration": 161.74
+  },
+  {
+    "timestamp": "2023-10-01T16:27:00",
+    "user_id": "C0161",
+    "page": "checkout",
+    "action": "click",
+    "duration": 120.5
+  },
+  {
+    "timestamp": "2023-02-06T03:00:00",
+    "user_id": "C0115",
+    "page": "search",
+    "action": "purchase",
+    "duration": 14.33
+  },
+  {
+    "timestamp": "2023-05-01T07:55:00",
+    "user_id": "C0087",
+    "page": "home",
+    "action": "click",
+    "duration": 210.71
+  },
+  {
+    "timestamp": "2023-01-23T16:28:00",
+    "user_id": "C0027",
+    "page": "checkout",
+    "action": "click",
+    "duration": 200.12
+  },
+  {
+    "timestamp": "2023-06-10T16:45:00",
+    "user_id": "C0021",
+    "page": "product",
+    "action": "view",
+    "duration": 286.04
+  },
+  {
+    "timestamp": "2023-05-19T04:38:00",
+    "user_id": "C0085",
+    "page": "home",
+    "action": "purchase",
+    "duration": 150.19
+  },
+  {
+    "timestamp": "2023-12-11T22:53:00",
+    "user_id": "C0038",
+    "page": "search",
+    "action": "click",
+    "duration": 38.55
+  },
+  {
+    "timestamp": "2023-08-11T08:37:00",
+    "user_id": "C0121",
+    "page": "search",
+    "action": "click",
+    "duration": 146.1
+  },
+  {
+    "timestamp": "2023-12-06T19:18:00",
+    "user_id": "C0067",
+    "page": "home",
+    "action": "view",
+    "duration": 52.54
+  },
+  {
+    "timestamp": "2023-03-05T15:22:00",
+    "user_id": "C0013",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 182.73
+  },
+  {
+    "timestamp": "2023-12-07T12:57:00",
+    "user_id": "C0057",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 155.99
+  },
+  {
+    "timestamp": "2023-10-06T05:20:00",
+    "user_id": "C0005",
+    "page": "product",
+    "action": "click",
+    "duration": 80.6
+  },
+  {
+    "timestamp": "2023-11-18T16:12:00",
+    "user_id": "C0185",
+    "page": "checkout",
+    "action": "click",
+    "duration": 245.53
+  },
+  {
+    "timestamp": "2023-01-09T04:37:00",
+    "user_id": "C0053",
+    "page": "search",
+    "action": "scroll",
+    "duration": 62.75
+  },
+  {
+    "timestamp": "2023-04-05T04:30:00",
+    "user_id": "C0104",
+    "page": "product",
+    "action": "view",
+    "duration": 40.61
+  },
+  {
+    "timestamp": "2023-05-29T03:32:00",
+    "user_id": "C0178",
+    "page": "search",
+    "action": "purchase",
+    "duration": 244.69
+  },
+  {
+    "timestamp": "2023-01-19T05:18:00",
+    "user_id": "C0116",
+    "page": "search",
+    "action": "view",
+    "duration": 256.13
+  },
+  {
+    "timestamp": "2023-08-18T21:41:00",
+    "user_id": "C0039",
+    "page": "home",
+    "action": "click",
+    "duration": 275.35
+  },
+  {
+    "timestamp": "2023-11-18T00:12:00",
+    "user_id": "C0112",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 39.54
+  },
+  {
+    "timestamp": "2023-03-22T00:19:00",
+    "user_id": "C0128",
+    "page": "product",
+    "action": "view",
+    "duration": 288.29
+  },
+  {
+    "timestamp": "2023-09-18T16:47:00",
+    "user_id": "C0015",
+    "page": "search",
+    "action": "view",
+    "duration": 192.12
+  },
+  {
+    "timestamp": "2023-06-30T23:49:00",
+    "user_id": "C0169",
+    "page": "product",
+    "action": "purchase",
+    "duration": 240.87
+  },
+  {
+    "timestamp": "2023-07-30T12:04:00",
+    "user_id": "C0146",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 178.48
+  },
+  {
+    "timestamp": "2023-12-27T11:11:00",
+    "user_id": "C0060",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 135.93
+  },
+  {
+    "timestamp": "2023-09-07T02:26:00",
+    "user_id": "C0029",
+    "page": "checkout",
+    "action": "view",
+    "duration": 32.63
+  },
+  {
+    "timestamp": "2023-02-04T12:37:00",
+    "user_id": "C0177",
+    "page": "home",
+    "action": "view",
+    "duration": 58.31
+  },
+  {
+    "timestamp": "2023-07-29T19:17:00",
+    "user_id": "C0023",
+    "page": "home",
+    "action": "scroll",
+    "duration": 285.13
+  },
+  {
+    "timestamp": "2023-05-21T16:42:00",
+    "user_id": "C0142",
+    "page": "home",
+    "action": "purchase",
+    "duration": 175.73
+  },
+  {
+    "timestamp": "2023-01-08T12:01:00",
+    "user_id": "C0181",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 142.1
+  },
+  {
+    "timestamp": "2023-12-12T15:05:00",
+    "user_id": "C0151",
+    "page": "product",
+    "action": "click",
+    "duration": 17.57
+  },
+  {
+    "timestamp": "2023-11-09T17:50:00",
+    "user_id": "C0018",
+    "page": "home",
+    "action": "view",
+    "duration": 280.43
+  },
+  {
+    "timestamp": "2023-02-10T20:23:00",
+    "user_id": "C0182",
+    "page": "home",
+    "action": "scroll",
+    "duration": 72.26
+  },
+  {
+    "timestamp": "2023-12-01T12:46:00",
+    "user_id": "C0120",
+    "page": "home",
+    "action": "click",
+    "duration": 100.88
+  },
+  {
+    "timestamp": "2023-02-05T01:07:00",
+    "user_id": "C0196",
+    "page": "product",
+    "action": "click",
+    "duration": 232.18
+  },
+  {
+    "timestamp": "2023-07-24T18:57:00",
+    "user_id": "C0011",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 51.49
+  },
+  {
+    "timestamp": "2023-02-18T13:01:00",
+    "user_id": "C0127",
+    "page": "home",
+    "action": "purchase",
+    "duration": 207.19
+  },
+  {
+    "timestamp": "2023-04-01T13:10:00",
+    "user_id": "C0016",
+    "page": "search",
+    "action": "click",
+    "duration": 107.61
+  },
+  {
+    "timestamp": "2023-06-27T06:58:00",
+    "user_id": "C0021",
+    "page": "product",
+    "action": "scroll",
+    "duration": 113.83
+  },
+  {
+    "timestamp": "2023-10-04T15:09:00",
+    "user_id": "C0017",
+    "page": "search",
+    "action": "view",
+    "duration": 149.76
+  },
+  {
+    "timestamp": "2023-05-30T04:35:00",
+    "user_id": "C0027",
+    "page": "search",
+    "action": "view",
+    "duration": 62.59
+  },
+  {
+    "timestamp": "2023-11-03T09:27:00",
+    "user_id": "C0092",
+    "page": "home",
+    "action": "view",
+    "duration": 72.03
+  },
+  {
+    "timestamp": "2023-05-23T01:38:00",
+    "user_id": "C0198",
+    "page": "checkout",
+    "action": "view",
+    "duration": 217.11
+  },
+  {
+    "timestamp": "2023-12-28T17:58:00",
+    "user_id": "C0101",
+    "page": "product",
+    "action": "view",
+    "duration": 222.86
+  },
+  {
+    "timestamp": "2023-04-15T15:41:00",
+    "user_id": "C0026",
+    "page": "home",
+    "action": "click",
+    "duration": 205.31
+  },
+  {
+    "timestamp": "2023-04-08T11:23:00",
+    "user_id": "C0199",
+    "page": "product",
+    "action": "scroll",
+    "duration": 217.08
+  },
+  {
+    "timestamp": "2023-05-05T23:02:00",
+    "user_id": "C0059",
+    "page": "checkout",
+    "action": "view",
+    "duration": 38.86
+  },
+  {
+    "timestamp": "2023-01-26T19:53:00",
+    "user_id": "C0017",
+    "page": "product",
+    "action": "purchase",
+    "duration": 71.08
+  },
+  {
+    "timestamp": "2023-12-13T18:39:00",
+    "user_id": "C0186",
+    "page": "search",
+    "action": "purchase",
+    "duration": 283.19
+  },
+  {
+    "timestamp": "2023-02-23T16:49:00",
+    "user_id": "C0091",
+    "page": "home",
+    "action": "scroll",
+    "duration": 277.06
+  },
+  {
+    "timestamp": "2023-08-25T17:06:00",
+    "user_id": "C0082",
+    "page": "product",
+    "action": "click",
+    "duration": 274.49
+  },
+  {
+    "timestamp": "2023-05-05T11:16:00",
+    "user_id": "C0137",
+    "page": "search",
+    "action": "scroll",
+    "duration": 296.75
+  },
+  {
+    "timestamp": "2023-08-31T14:27:00",
+    "user_id": "C0148",
+    "page": "product",
+    "action": "click",
+    "duration": 158.89
+  },
+  {
+    "timestamp": "2023-07-05T21:28:00",
+    "user_id": "C0158",
+    "page": "home",
+    "action": "purchase",
+    "duration": 2.17
+  },
+  {
+    "timestamp": "2023-03-05T01:08:00",
+    "user_id": "C0191",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 259.72
+  },
+  {
+    "timestamp": "2023-06-01T04:07:00",
+    "user_id": "C0100",
+    "page": "product",
+    "action": "scroll",
+    "duration": 35.43
+  },
+  {
+    "timestamp": "2023-12-15T07:53:00",
+    "user_id": "C0015",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 113.42
+  },
+  {
+    "timestamp": "2023-09-30T10:00:00",
+    "user_id": "C0029",
+    "page": "product",
+    "action": "scroll",
+    "duration": 24.17
+  },
+  {
+    "timestamp": "2023-01-20T07:18:00",
+    "user_id": "C0130",
+    "page": "search",
+    "action": "scroll",
+    "duration": 191.87
+  },
+  {
+    "timestamp": "2023-03-20T20:23:00",
+    "user_id": "C0050",
+    "page": "product",
+    "action": "scroll",
+    "duration": 254.99
+  },
+  {
+    "timestamp": "2023-09-04T23:33:00",
+    "user_id": "C0115",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 109.14
+  },
+  {
+    "timestamp": "2023-09-18T09:48:00",
+    "user_id": "C0123",
+    "page": "search",
+    "action": "view",
+    "duration": 36.28
+  },
+  {
+    "timestamp": "2023-09-10T04:40:00",
+    "user_id": "C0018",
+    "page": "checkout",
+    "action": "click",
+    "duration": 154.17
+  },
+  {
+    "timestamp": "2023-04-16T23:32:00",
+    "user_id": "C0118",
+    "page": "product",
+    "action": "scroll",
+    "duration": 298.08
+  },
+  {
+    "timestamp": "2023-10-09T23:59:00",
+    "user_id": "C0139",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 162.52
+  },
+  {
+    "timestamp": "2023-11-08T12:25:00",
+    "user_id": "C0181",
+    "page": "checkout",
+    "action": "click",
+    "duration": 152.1
+  },
+  {
+    "timestamp": "2023-03-07T13:34:00",
+    "user_id": "C0075",
+    "page": "checkout",
+    "action": "view",
+    "duration": 223.26
+  },
+  {
+    "timestamp": "2023-07-07T20:51:00",
+    "user_id": "C0171",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 200.03
+  },
+  {
+    "timestamp": "2023-11-16T23:55:00",
+    "user_id": "C0149",
+    "page": "search",
+    "action": "purchase",
+    "duration": 91.05
+  },
+  {
+    "timestamp": "2023-05-24T21:41:00",
+    "user_id": "C0050",
+    "page": "checkout",
+    "action": "view",
+    "duration": 266.74
+  },
+  {
+    "timestamp": "2023-02-16T12:54:00",
+    "user_id": "C0078",
+    "page": "search",
+    "action": "view",
+    "duration": 62.21
+  },
+  {
+    "timestamp": "2023-02-19T10:49:00",
+    "user_id": "C0163",
+    "page": "home",
+    "action": "view",
+    "duration": 43.51
+  },
+  {
+    "timestamp": "2023-08-26T02:46:00",
+    "user_id": "C0097",
+    "page": "search",
+    "action": "scroll",
+    "duration": 84.52
+  },
+  {
+    "timestamp": "2023-03-16T21:57:00",
+    "user_id": "C0081",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 154.07
+  },
+  {
+    "timestamp": "2023-07-14T07:15:00",
+    "user_id": "C0067",
+    "page": "search",
+    "action": "purchase",
+    "duration": 171.93
+  },
+  {
+    "timestamp": "2023-11-16T15:23:00",
+    "user_id": "C0066",
+    "page": "product",
+    "action": "scroll",
+    "duration": 178.46
+  },
+  {
+    "timestamp": "2023-11-19T05:55:00",
+    "user_id": "C0081",
+    "page": "search",
+    "action": "scroll",
+    "duration": 33.93
+  },
+  {
+    "timestamp": "2023-09-28T08:46:00",
+    "user_id": "C0142",
+    "page": "search",
+    "action": "click",
+    "duration": 241.01
+  },
+  {
+    "timestamp": "2023-02-05T22:03:00",
+    "user_id": "C0070",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 41.55
+  },
+  {
+    "timestamp": "2023-08-18T02:15:00",
+    "user_id": "C0082",
+    "page": "search",
+    "action": "view",
+    "duration": 31.18
+  },
+  {
+    "timestamp": "2023-06-18T17:27:00",
+    "user_id": "C0102",
+    "page": "product",
+    "action": "purchase",
+    "duration": 281.31
+  },
+  {
+    "timestamp": "2023-05-08T16:03:00",
+    "user_id": "C0024",
+    "page": "home",
+    "action": "click",
+    "duration": 252.82
+  },
+  {
+    "timestamp": "2023-07-11T20:25:00",
+    "user_id": "C0057",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 183.67
+  },
+  {
+    "timestamp": "2023-12-17T05:35:00",
+    "user_id": "C0199",
+    "page": "checkout",
+    "action": "view",
+    "duration": 276.09
+  },
+  {
+    "timestamp": "2023-12-14T04:27:00",
+    "user_id": "C0163",
+    "page": "search",
+    "action": "view",
+    "duration": 278.07
+  },
+  {
+    "timestamp": "2023-02-27T16:32:00",
+    "user_id": "C0123",
+    "page": "product",
+    "action": "click",
+    "duration": 121.28
+  },
+  {
+    "timestamp": "2023-05-02T23:34:00",
+    "user_id": "C0024",
+    "page": "search",
+    "action": "click",
+    "duration": 266.74
+  },
+  {
+    "timestamp": "2023-02-06T20:10:00",
+    "user_id": "C0053",
+    "page": "search",
+    "action": "purchase",
+    "duration": 105.86
+  },
+  {
+    "timestamp": "2023-06-18T01:57:00",
+    "user_id": "C0005",
+    "page": "home",
+    "action": "view",
+    "duration": 81.11
+  },
+  {
+    "timestamp": "2023-10-19T21:40:00",
+    "user_id": "C0072",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 112.63
+  },
+  {
+    "timestamp": "2023-08-18T08:52:00",
+    "user_id": "C0185",
+    "page": "home",
+    "action": "click",
+    "duration": 109.12
+  },
+  {
+    "timestamp": "2023-09-07T07:10:00",
+    "user_id": "C0168",
+    "page": "search",
+    "action": "scroll",
+    "duration": 110.65
+  },
+  {
+    "timestamp": "2023-05-25T01:09:00",
+    "user_id": "C0053",
+    "page": "product",
+    "action": "click",
+    "duration": 295.79
+  },
+  {
+    "timestamp": "2023-09-06T21:20:00",
+    "user_id": "C0108",
+    "page": "search",
+    "action": "view",
+    "duration": 173.99
+  },
+  {
+    "timestamp": "2023-07-14T20:58:00",
+    "user_id": "C0156",
+    "page": "home",
+    "action": "scroll",
+    "duration": 150.85
+  },
+  {
+    "timestamp": "2023-05-08T23:08:00",
+    "user_id": "C0111",
+    "page": "product",
+    "action": "click",
+    "duration": 253.1
+  },
+  {
+    "timestamp": "2023-08-09T03:29:00",
+    "user_id": "C0124",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 260.18
+  },
+  {
+    "timestamp": "2023-04-28T03:52:00",
+    "user_id": "C0007",
+    "page": "checkout",
+    "action": "view",
+    "duration": 65.44
+  },
+  {
+    "timestamp": "2023-11-17T19:17:00",
+    "user_id": "C0034",
+    "page": "product",
+    "action": "scroll",
+    "duration": 222.41
+  },
+  {
+    "timestamp": "2023-05-04T16:19:00",
+    "user_id": "C0048",
+    "page": "checkout",
+    "action": "click",
+    "duration": 51.59
+  },
+  {
+    "timestamp": "2023-11-16T13:17:00",
+    "user_id": "C0173",
+    "page": "product",
+    "action": "view",
+    "duration": 216.31
+  },
+  {
+    "timestamp": "2023-02-17T05:30:00",
+    "user_id": "C0108",
+    "page": "home",
+    "action": "scroll",
+    "duration": 267.67
+  },
+  {
+    "timestamp": "2023-09-01T06:29:00",
+    "user_id": "C0079",
+    "page": "search",
+    "action": "scroll",
+    "duration": 6.41
+  },
+  {
+    "timestamp": "2023-05-06T03:53:00",
+    "user_id": "C0191",
+    "page": "search",
+    "action": "scroll",
+    "duration": 12.13
+  },
+  {
+    "timestamp": "2023-04-07T01:51:00",
+    "user_id": "C0028",
+    "page": "home",
+    "action": "scroll",
+    "duration": 251.05
+  },
+  {
+    "timestamp": "2023-01-22T02:18:00",
+    "user_id": "C0161",
+    "page": "search",
+    "action": "click",
+    "duration": 142.42
+  },
+  {
+    "timestamp": "2023-05-12T03:33:00",
+    "user_id": "C0022",
+    "page": "checkout",
+    "action": "view",
+    "duration": 292.45
+  },
+  {
+    "timestamp": "2023-02-14T10:18:00",
+    "user_id": "C0176",
+    "page": "product",
+    "action": "purchase",
+    "duration": 294.45
+  },
+  {
+    "timestamp": "2023-09-25T03:33:00",
+    "user_id": "C0107",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 269.95
+  },
+  {
+    "timestamp": "2023-07-26T22:17:00",
+    "user_id": "C0123",
+    "page": "product",
+    "action": "click",
+    "duration": 278.58
+  },
+  {
+    "timestamp": "2023-04-16T15:13:00",
+    "user_id": "C0002",
+    "page": "home",
+    "action": "view",
+    "duration": 250.83
+  },
+  {
+    "timestamp": "2023-05-14T16:23:00",
+    "user_id": "C0183",
+    "page": "search",
+    "action": "view",
+    "duration": 186.96
+  },
+  {
+    "timestamp": "2023-04-12T12:17:00",
+    "user_id": "C0097",
+    "page": "checkout",
+    "action": "click",
+    "duration": 59.29
+  },
+  {
+    "timestamp": "2023-10-21T13:56:00",
+    "user_id": "C0104",
+    "page": "home",
+    "action": "scroll",
+    "duration": 153.16
+  },
+  {
+    "timestamp": "2023-04-02T02:14:00",
+    "user_id": "C0001",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 63.05
+  },
+  {
+    "timestamp": "2023-01-14T08:19:00",
+    "user_id": "C0040",
+    "page": "search",
+    "action": "view",
+    "duration": 31.65
+  },
+  {
+    "timestamp": "2023-08-25T03:16:00",
+    "user_id": "C0008",
+    "page": "home",
+    "action": "click",
+    "duration": 136.21
+  },
+  {
+    "timestamp": "2023-09-16T07:54:00",
+    "user_id": "C0120",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 289.37
+  },
+  {
+    "timestamp": "2023-04-12T17:23:00",
+    "user_id": "C0181",
+    "page": "product",
+    "action": "purchase",
+    "duration": 209.8
+  },
+  {
+    "timestamp": "2023-11-08T20:20:00",
+    "user_id": "C0067",
+    "page": "search",
+    "action": "click",
+    "duration": 25.89
+  },
+  {
+    "timestamp": "2023-06-07T08:22:00",
+    "user_id": "C0152",
+    "page": "product",
+    "action": "click",
+    "duration": 6.3
+  },
+  {
+    "timestamp": "2023-06-20T13:28:00",
+    "user_id": "C0176",
+    "page": "search",
+    "action": "scroll",
+    "duration": 146.09
+  },
+  {
+    "timestamp": "2023-02-23T00:27:00",
+    "user_id": "C0049",
+    "page": "product",
+    "action": "click",
+    "duration": 170.12
+  },
+  {
+    "timestamp": "2023-12-17T01:49:00",
+    "user_id": "C0165",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 110.83
+  },
+  {
+    "timestamp": "2023-01-15T23:45:00",
+    "user_id": "C0096",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 254.73
+  },
+  {
+    "timestamp": "2023-03-07T19:00:00",
+    "user_id": "C0161",
+    "page": "checkout",
+    "action": "click",
+    "duration": 201.55
+  },
+  {
+    "timestamp": "2023-04-04T21:16:00",
+    "user_id": "C0009",
+    "page": "home",
+    "action": "purchase",
+    "duration": 59.14
+  },
+  {
+    "timestamp": "2023-11-07T06:36:00",
+    "user_id": "C0149",
+    "page": "product",
+    "action": "view",
+    "duration": 26.23
+  },
+  {
+    "timestamp": "2023-03-31T02:23:00",
+    "user_id": "C0006",
+    "page": "search",
+    "action": "scroll",
+    "duration": 153.34
+  },
+  {
+    "timestamp": "2023-09-10T19:30:00",
+    "user_id": "C0065",
+    "page": "search",
+    "action": "view",
+    "duration": 128.46
+  },
+  {
+    "timestamp": "2023-07-26T18:02:00",
+    "user_id": "C0136",
+    "page": "product",
+    "action": "view",
+    "duration": 285.27
+  },
+  {
+    "timestamp": "2023-10-20T17:16:00",
+    "user_id": "C0195",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 261.58
+  },
+  {
+    "timestamp": "2023-02-04T13:34:00",
+    "user_id": "C0177",
+    "page": "home",
+    "action": "view",
+    "duration": 215.44
+  },
+  {
+    "timestamp": "2023-01-24T11:27:00",
+    "user_id": "C0118",
+    "page": "search",
+    "action": "scroll",
+    "duration": 127.03
+  },
+  {
+    "timestamp": "2023-09-21T18:29:00",
+    "user_id": "C0056",
+    "page": "search",
+    "action": "view",
+    "duration": 57.79
+  },
+  {
+    "timestamp": "2023-09-20T21:13:00",
+    "user_id": "C0132",
+    "page": "home",
+    "action": "click",
+    "duration": 199.78
+  },
+  {
+    "timestamp": "2023-11-22T07:54:00",
+    "user_id": "C0035",
+    "page": "home",
+    "action": "purchase",
+    "duration": 195.64
+  },
+  {
+    "timestamp": "2023-11-20T21:12:00",
+    "user_id": "C0087",
+    "page": "search",
+    "action": "purchase",
+    "duration": 22.85
+  },
+  {
+    "timestamp": "2023-05-09T18:39:00",
+    "user_id": "C0022",
+    "page": "home",
+    "action": "scroll",
+    "duration": 209.66
+  },
+  {
+    "timestamp": "2023-03-21T05:09:00",
+    "user_id": "C0058",
+    "page": "home",
+    "action": "purchase",
+    "duration": 3.2
+  },
+  {
+    "timestamp": "2023-01-31T19:31:00",
+    "user_id": "C0140",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 45.49
+  },
+  {
+    "timestamp": "2023-06-25T19:54:00",
+    "user_id": "C0106",
+    "page": "product",
+    "action": "purchase",
+    "duration": 134.8
+  },
+  {
+    "timestamp": "2023-07-15T13:58:00",
+    "user_id": "C0098",
+    "page": "home",
+    "action": "view",
+    "duration": 202.41
+  },
+  {
+    "timestamp": "2023-01-05T20:03:00",
+    "user_id": "C0036",
+    "page": "home",
+    "action": "purchase",
+    "duration": 271.9
+  },
+  {
+    "timestamp": "2023-06-02T17:30:00",
+    "user_id": "C0130",
+    "page": "home",
+    "action": "scroll",
+    "duration": 137.18
+  },
+  {
+    "timestamp": "2023-01-22T10:48:00",
+    "user_id": "C0028",
+    "page": "search",
+    "action": "scroll",
+    "duration": 190.0
+  },
+  {
+    "timestamp": "2023-11-20T05:00:00",
+    "user_id": "C0033",
+    "page": "search",
+    "action": "click",
+    "duration": 199.54
+  },
+  {
+    "timestamp": "2023-02-05T02:52:00",
+    "user_id": "C0023",
+    "page": "search",
+    "action": "purchase",
+    "duration": 273.75
+  },
+  {
+    "timestamp": "2023-12-21T16:23:00",
+    "user_id": "C0091",
+    "page": "home",
+    "action": "view",
+    "duration": 215.71
+  },
+  {
+    "timestamp": "2023-06-25T23:46:00",
+    "user_id": "C0109",
+    "page": "checkout",
+    "action": "view",
+    "duration": 290.39
+  },
+  {
+    "timestamp": "2023-06-28T21:13:00",
+    "user_id": "C0107",
+    "page": "product",
+    "action": "view",
+    "duration": 52.93
+  },
+  {
+    "timestamp": "2023-07-04T03:14:00",
+    "user_id": "C0043",
+    "page": "home",
+    "action": "scroll",
+    "duration": 74.75
+  },
+  {
+    "timestamp": "2023-10-21T18:47:00",
+    "user_id": "C0071",
+    "page": "product",
+    "action": "purchase",
+    "duration": 167.62
+  },
+  {
+    "timestamp": "2023-06-09T04:16:00",
+    "user_id": "C0109",
+    "page": "checkout",
+    "action": "view",
+    "duration": 250.12
+  },
+  {
+    "timestamp": "2023-07-18T22:47:00",
+    "user_id": "C0086",
+    "page": "product",
+    "action": "purchase",
+    "duration": 124.69
+  },
+  {
+    "timestamp": "2023-09-08T04:00:00",
+    "user_id": "C0091",
+    "page": "home",
+    "action": "click",
+    "duration": 43.01
+  },
+  {
+    "timestamp": "2023-03-12T09:49:00",
+    "user_id": "C0112",
+    "page": "product",
+    "action": "click",
+    "duration": 254.86
+  },
+  {
+    "timestamp": "2023-01-13T16:21:00",
+    "user_id": "C0136",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 257.23
+  },
+  {
+    "timestamp": "2023-09-17T21:05:00",
+    "user_id": "C0113",
+    "page": "search",
+    "action": "scroll",
+    "duration": 239.09
+  },
+  {
+    "timestamp": "2023-11-04T13:08:00",
+    "user_id": "C0114",
+    "page": "search",
+    "action": "purchase",
+    "duration": 18.87
+  },
+  {
+    "timestamp": "2023-06-21T19:29:00",
+    "user_id": "C0019",
+    "page": "search",
+    "action": "purchase",
+    "duration": 8.05
+  },
+  {
+    "timestamp": "2023-01-12T04:53:00",
+    "user_id": "C0038",
+    "page": "home",
+    "action": "view",
+    "duration": 282.27
+  },
+  {
+    "timestamp": "2023-07-24T18:51:00",
+    "user_id": "C0090",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 62.36
+  },
+  {
+    "timestamp": "2023-02-16T14:33:00",
+    "user_id": "C0145",
+    "page": "checkout",
+    "action": "view",
+    "duration": 93.99
+  },
+  {
+    "timestamp": "2023-09-20T04:03:00",
+    "user_id": "C0176",
+    "page": "search",
+    "action": "purchase",
+    "duration": 274.71
+  },
+  {
+    "timestamp": "2023-07-19T08:38:00",
+    "user_id": "C0146",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 81.56
+  },
+  {
+    "timestamp": "2023-04-10T06:25:00",
+    "user_id": "C0171",
+    "page": "search",
+    "action": "scroll",
+    "duration": 101.57
+  },
+  {
+    "timestamp": "2023-11-06T10:06:00",
+    "user_id": "C0182",
+    "page": "home",
+    "action": "click",
+    "duration": 219.31
+  },
+  {
+    "timestamp": "2023-04-19T07:00:00",
+    "user_id": "C0144",
+    "page": "search",
+    "action": "view",
+    "duration": 81.22
+  },
+  {
+    "timestamp": "2023-05-28T14:23:00",
+    "user_id": "C0090",
+    "page": "search",
+    "action": "click",
+    "duration": 220.69
+  },
+  {
+    "timestamp": "2023-09-13T03:01:00",
+    "user_id": "C0138",
+    "page": "search",
+    "action": "view",
+    "duration": 155.04
+  },
+  {
+    "timestamp": "2023-06-11T20:14:00",
+    "user_id": "C0092",
+    "page": "product",
+    "action": "scroll",
+    "duration": 200.09
+  },
+  {
+    "timestamp": "2023-04-03T03:47:00",
+    "user_id": "C0023",
+    "page": "home",
+    "action": "click",
+    "duration": 38.72
+  },
+  {
+    "timestamp": "2023-11-25T17:56:00",
+    "user_id": "C0182",
+    "page": "product",
+    "action": "click",
+    "duration": 7.29
+  },
+  {
+    "timestamp": "2023-07-11T09:04:00",
+    "user_id": "C0123",
+    "page": "search",
+    "action": "scroll",
+    "duration": 60.26
+  },
+  {
+    "timestamp": "2023-06-28T21:38:00",
+    "user_id": "C0037",
+    "page": "product",
+    "action": "click",
+    "duration": 290.68
+  },
+  {
+    "timestamp": "2023-03-06T07:22:00",
+    "user_id": "C0104",
+    "page": "home",
+    "action": "scroll",
+    "duration": 87.16
+  },
+  {
+    "timestamp": "2023-12-16T06:50:00",
+    "user_id": "C0172",
+    "page": "product",
+    "action": "click",
+    "duration": 299.06
+  },
+  {
+    "timestamp": "2023-12-04T14:53:00",
+    "user_id": "C0113",
+    "page": "product",
+    "action": "click",
+    "duration": 150.25
+  },
+  {
+    "timestamp": "2023-03-20T19:03:00",
+    "user_id": "C0056",
+    "page": "checkout",
+    "action": "click",
+    "duration": 185.01
+  },
+  {
+    "timestamp": "2023-03-12T20:58:00",
+    "user_id": "C0131",
+    "page": "checkout",
+    "action": "click",
+    "duration": 205.88
+  },
+  {
+    "timestamp": "2023-11-21T18:43:00",
+    "user_id": "C0113",
+    "page": "search",
+    "action": "purchase",
+    "duration": 206.14
+  },
+  {
+    "timestamp": "2023-03-27T02:47:00",
+    "user_id": "C0017",
+    "page": "checkout",
+    "action": "click",
+    "duration": 146.54
+  },
+  {
+    "timestamp": "2023-04-13T22:17:00",
+    "user_id": "C0146",
+    "page": "home",
+    "action": "purchase",
+    "duration": 107.63
+  },
+  {
+    "timestamp": "2023-12-14T20:56:00",
+    "user_id": "C0062",
+    "page": "checkout",
+    "action": "view",
+    "duration": 230.14
+  },
+  {
+    "timestamp": "2023-01-07T06:49:00",
+    "user_id": "C0160",
+    "page": "product",
+    "action": "scroll",
+    "duration": 194.61
+  },
+  {
+    "timestamp": "2023-01-11T15:22:00",
+    "user_id": "C0123",
+    "page": "home",
+    "action": "click",
+    "duration": 195.34
+  },
+  {
+    "timestamp": "2023-01-31T15:41:00",
+    "user_id": "C0101",
+    "page": "home",
+    "action": "purchase",
+    "duration": 162.48
+  },
+  {
+    "timestamp": "2023-04-27T08:20:00",
+    "user_id": "C0040",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 145.27
+  },
+  {
+    "timestamp": "2023-05-13T06:50:00",
+    "user_id": "C0064",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 59.26
+  },
+  {
+    "timestamp": "2023-06-29T06:22:00",
+    "user_id": "C0200",
+    "page": "search",
+    "action": "click",
+    "duration": 148.23
+  },
+  {
+    "timestamp": "2023-12-28T02:31:00",
+    "user_id": "C0171",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 214.69
+  },
+  {
+    "timestamp": "2023-06-15T13:26:00",
+    "user_id": "C0140",
+    "page": "home",
+    "action": "click",
+    "duration": 212.09
+  },
+  {
+    "timestamp": "2023-05-16T23:07:00",
+    "user_id": "C0055",
+    "page": "home",
+    "action": "view",
+    "duration": 289.84
+  },
+  {
+    "timestamp": "2023-09-18T10:20:00",
+    "user_id": "C0037",
+    "page": "search",
+    "action": "purchase",
+    "duration": 123.99
+  },
+  {
+    "timestamp": "2023-12-09T21:31:00",
+    "user_id": "C0135",
+    "page": "checkout",
+    "action": "click",
+    "duration": 234.36
+  },
+  {
+    "timestamp": "2023-02-11T12:49:00",
+    "user_id": "C0094",
+    "page": "checkout",
+    "action": "view",
+    "duration": 295.03
+  },
+  {
+    "timestamp": "2023-11-03T10:36:00",
+    "user_id": "C0024",
+    "page": "checkout",
+    "action": "view",
+    "duration": 26.35
+  },
+  {
+    "timestamp": "2023-09-18T03:52:00",
+    "user_id": "C0191",
+    "page": "search",
+    "action": "purchase",
+    "duration": 168.33
+  },
+  {
+    "timestamp": "2023-11-20T23:59:00",
+    "user_id": "C0141",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 205.27
+  },
+  {
+    "timestamp": "2023-03-28T16:34:00",
+    "user_id": "C0167",
+    "page": "search",
+    "action": "purchase",
+    "duration": 262.36
+  },
+  {
+    "timestamp": "2023-07-07T00:56:00",
+    "user_id": "C0034",
+    "page": "checkout",
+    "action": "scroll",
+    "duration": 153.04
+  },
+  {
+    "timestamp": "2023-01-18T08:10:00",
+    "user_id": "C0128",
+    "page": "product",
+    "action": "view",
+    "duration": 224.42
+  },
+  {
+    "timestamp": "2023-05-12T11:27:00",
+    "user_id": "C0103",
+    "page": "checkout",
+    "action": "view",
+    "duration": 47.55
+  },
+  {
+    "timestamp": "2023-06-28T11:18:00",
+    "user_id": "C0103",
+    "page": "search",
+    "action": "scroll",
+    "duration": 142.04
+  },
+  {
+    "timestamp": "2023-03-03T07:12:00",
+    "user_id": "C0016",
+    "page": "checkout",
+    "action": "view",
+    "duration": 272.42
+  },
+  {
+    "timestamp": "2023-10-18T13:15:00",
+    "user_id": "C0149",
+    "page": "search",
+    "action": "purchase",
+    "duration": 250.74
+  },
+  {
+    "timestamp": "2023-06-28T11:22:00",
+    "user_id": "C0102",
+    "page": "search",
+    "action": "view",
+    "duration": 257.65
+  },
+  {
+    "timestamp": "2023-08-18T03:47:00",
+    "user_id": "C0041",
+    "page": "product",
+    "action": "scroll",
+    "duration": 277.93
+  },
+  {
+    "timestamp": "2023-10-06T16:08:00",
+    "user_id": "C0061",
+    "page": "product",
+    "action": "scroll",
+    "duration": 277.66
+  },
+  {
+    "timestamp": "2023-11-03T20:50:00",
+    "user_id": "C0070",
+    "page": "checkout",
+    "action": "view",
+    "duration": 19.34
+  },
+  {
+    "timestamp": "2023-09-24T16:04:00",
+    "user_id": "C0194",
+    "page": "checkout",
+    "action": "purchase",
+    "duration": 57.36
+  },
+  {
+    "timestamp": "2023-01-04T04:47:00",
+    "user_id": "C0113",
+    "page": "home",
+    "action": "view",
+    "duration": 101.58
+  },
+  {
+    "timestamp": "2023-03-16T16:06:00",
+    "user_id": "C0030",
+    "page": "checkout",
+    "action": "view",
+    "duration": 26.75
+  },
+  {
+    "timestamp": "2023-12-25T20:28:00",
+    "user_id": "C0127",
+    "page": "home",
+    "action": "scroll",
+    "duration": 72.96
+  },
+  {
+    "timestamp": "2023-10-04T04:31:00",
+    "user_id": "C0010",
+    "page": "search",
+    "action": "scroll",
+    "duration": 100.9
+  },
+  {
+    "timestamp": "2023-06-15T06:04:00",
+    "user_id": "C0077",
+    "page": "home",
+    "action": "purchase",
+    "duration": 89.09
+  },
+  {
+    "timestamp": "2023-05-11T06:43:00",
+    "user_id": "C0195",
+    "page": "product",
+    "action": "view",
+    "duration": 214.19
+  },
+  {
+    "timestamp": "2023-06-23T05:39:00",
+    "user_id": "C0145",
+    "page": "checkout",
+    "action": "click",
+    "duration": 226.72
+  }
+]
