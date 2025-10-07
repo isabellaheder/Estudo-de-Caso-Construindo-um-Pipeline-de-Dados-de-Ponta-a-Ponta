@@ -1,0 +1,16 @@
+## PASTA COM OS DADOS DISPONIBILIZADOS PELO PROFESSOR
+
+### ERP	vendas.csv:	
+Data, Loja, Produto_ID, Cliente_ID, Valor_Venda, Quantidade	
+- Pode conter linhas duplicadas e dados ausentes
+
+### CRM	clientes.csv	
+Cliente_ID, Nome, Idade, Gênero, Cidade, Estado	
+- Dados limpos e consistentes
+
+### Marketing	campanhas.csv	
+Campanha_ID, Mês, Canal, Investimento, ROI	
+
+### Logs Web	logs_acessos.json	
+timestamp, user_id, page, action, duration	
+- Dados semiestruturados
